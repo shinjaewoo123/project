@@ -1,0 +1,2 @@
+# project
+extract product info
