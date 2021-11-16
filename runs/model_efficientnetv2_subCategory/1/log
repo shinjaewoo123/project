@@ -1,0 +1,353 @@
+2021-11-16 10:48:39,143 - __main__ - INFO - Main module is initialized.
+2021-11-16 10:48:39,226 - __main__ - INFO - number of train data 38
+2021-11-16 10:48:39,226 - __main__ - INFO - number of val data 5
+2021-11-16 10:49:14,925 - __main__ - INFO - epoch = 0, train/loss = 0.5077142601734713
+2021-11-16 10:49:14,926 - __main__ - INFO - epoch = 0, train/subCategory_acc1 = 87.48
+2021-11-16 10:49:14,927 - __main__ - INFO - epoch = 0, train/subCategory_acc2 = 92.29
+2021-11-16 10:49:17,157 - __main__ - INFO - epoch = 0, val/loss = 0.29773
+2021-11-16 10:49:17,158 - __main__ - INFO - epoch = 0, val/subCategory_acc1 = 91.67
+2021-11-16 10:49:17,159 - __main__ - INFO - epoch = 0, val/subCategory_acc2 = 96.77
+2021-11-16 10:49:17,159 - __main__ - INFO - ====================
+2021-11-16 10:49:47,410 - __main__ - INFO - epoch = 1, train/loss = 0.18934025850735212
+2021-11-16 10:49:47,411 - __main__ - INFO - epoch = 1, train/subCategory_acc1 = 94.67
+2021-11-16 10:49:47,411 - __main__ - INFO - epoch = 1, train/subCategory_acc2 = 98.15
+2021-11-16 10:49:49,071 - __main__ - INFO - epoch = 1, val/loss = 0.3131
+2021-11-16 10:49:49,071 - __main__ - INFO - epoch = 1, val/subCategory_acc1 = 91.22
+2021-11-16 10:49:49,072 - __main__ - INFO - epoch = 1, val/subCategory_acc2 = 96.7
+2021-11-16 10:49:49,072 - __main__ - INFO - ====================
+2021-11-16 10:50:19,143 - __main__ - INFO - epoch = 2, train/loss = 0.13884985701818214
+2021-11-16 10:50:19,144 - __main__ - INFO - epoch = 2, train/subCategory_acc1 = 95.88
+2021-11-16 10:50:19,145 - __main__ - INFO - epoch = 2, train/subCategory_acc2 = 98.91
+2021-11-16 10:50:20,844 - __main__ - INFO - epoch = 2, val/loss = 0.22627
+2021-11-16 10:50:20,845 - __main__ - INFO - epoch = 2, val/subCategory_acc1 = 93.55
+2021-11-16 10:50:20,846 - __main__ - INFO - epoch = 2, val/subCategory_acc2 = 97.69
+2021-11-16 10:50:20,846 - __main__ - INFO - ====================
+2021-11-16 10:50:51,709 - __main__ - INFO - epoch = 3, train/loss = 0.10863887342183214
+2021-11-16 10:50:51,710 - __main__ - INFO - epoch = 3, train/subCategory_acc1 = 96.72
+2021-11-16 10:50:51,710 - __main__ - INFO - epoch = 3, train/subCategory_acc2 = 99.19
+2021-11-16 10:50:53,370 - __main__ - INFO - epoch = 3, val/loss = 0.24963
+2021-11-16 10:50:53,371 - __main__ - INFO - epoch = 3, val/subCategory_acc1 = 92.99
+2021-11-16 10:50:53,371 - __main__ - INFO - epoch = 3, val/subCategory_acc2 = 97.82
+2021-11-16 10:50:53,371 - __main__ - INFO - ====================
+2021-11-16 10:51:23,546 - __main__ - INFO - epoch = 4, train/loss = 0.08799934691112292
+2021-11-16 10:51:23,547 - __main__ - INFO - epoch = 4, train/subCategory_acc1 = 97.36
+2021-11-16 10:51:23,547 - __main__ - INFO - epoch = 4, train/subCategory_acc2 = 99.46
+2021-11-16 10:51:25,206 - __main__ - INFO - epoch = 4, val/loss = 0.26579
+2021-11-16 10:51:25,207 - __main__ - INFO - epoch = 4, val/subCategory_acc1 = 93.19
+2021-11-16 10:51:25,208 - __main__ - INFO - epoch = 4, val/subCategory_acc2 = 97.8
+2021-11-16 10:51:25,208 - __main__ - INFO - ====================
+2021-11-16 10:51:55,416 - __main__ - INFO - epoch = 5, train/loss = 0.07513676309271862
+2021-11-16 10:51:55,417 - __main__ - INFO - epoch = 5, train/subCategory_acc1 = 97.56
+2021-11-16 10:51:55,418 - __main__ - INFO - epoch = 5, train/subCategory_acc2 = 99.56
+2021-11-16 10:51:57,081 - __main__ - INFO - epoch = 5, val/loss = 0.29467
+2021-11-16 10:51:57,082 - __main__ - INFO - epoch = 5, val/subCategory_acc1 = 92.52
+2021-11-16 10:51:57,082 - __main__ - INFO - epoch = 5, val/subCategory_acc2 = 97.55
+2021-11-16 10:51:57,083 - __main__ - INFO - ====================
+2021-11-16 10:52:27,342 - __main__ - INFO - epoch = 6, train/loss = 0.07127812612605722
+2021-11-16 10:52:27,342 - __main__ - INFO - epoch = 6, train/subCategory_acc1 = 97.83
+2021-11-16 10:52:27,343 - __main__ - INFO - epoch = 6, train/subCategory_acc2 = 99.58
+2021-11-16 10:52:29,063 - __main__ - INFO - epoch = 6, val/loss = 0.25414
+2021-11-16 10:52:29,064 - __main__ - INFO - epoch = 6, val/subCategory_acc1 = 94.16
+2021-11-16 10:52:29,064 - __main__ - INFO - epoch = 6, val/subCategory_acc2 = 97.71
+2021-11-16 10:52:29,064 - __main__ - INFO - ====================
+2021-11-16 10:52:59,331 - __main__ - INFO - epoch = 7, train/loss = 0.0681749677383586
+2021-11-16 10:52:59,331 - __main__ - INFO - epoch = 7, train/subCategory_acc1 = 97.85
+2021-11-16 10:52:59,332 - __main__ - INFO - epoch = 7, train/subCategory_acc2 = 99.64
+2021-11-16 10:53:00,996 - __main__ - INFO - epoch = 7, val/loss = 0.32806
+2021-11-16 10:53:00,997 - __main__ - INFO - epoch = 7, val/subCategory_acc1 = 92.59
+2021-11-16 10:53:00,998 - __main__ - INFO - epoch = 7, val/subCategory_acc2 = 97.48
+2021-11-16 10:53:00,998 - __main__ - INFO - ====================
+2021-11-16 10:53:31,231 - __main__ - INFO - epoch = 8, train/loss = 0.06000611686000699
+2021-11-16 10:53:31,232 - __main__ - INFO - epoch = 8, train/subCategory_acc1 = 98.17
+2021-11-16 10:53:31,232 - __main__ - INFO - epoch = 8, train/subCategory_acc2 = 99.71
+2021-11-16 10:53:32,892 - __main__ - INFO - epoch = 8, val/loss = 0.27692
+2021-11-16 10:53:32,893 - __main__ - INFO - epoch = 8, val/subCategory_acc1 = 93.31
+2021-11-16 10:53:32,893 - __main__ - INFO - epoch = 8, val/subCategory_acc2 = 97.8
+2021-11-16 10:53:32,894 - __main__ - INFO - ====================
+2021-11-16 10:54:03,107 - __main__ - INFO - epoch = 9, train/loss = 0.054173200440249945
+2021-11-16 10:54:03,108 - __main__ - INFO - epoch = 9, train/subCategory_acc1 = 98.3
+2021-11-16 10:54:03,109 - __main__ - INFO - epoch = 9, train/subCategory_acc2 = 99.72
+2021-11-16 10:54:04,775 - __main__ - INFO - epoch = 9, val/loss = 0.21698
+2021-11-16 10:54:04,776 - __main__ - INFO - epoch = 9, val/subCategory_acc1 = 94.25
+2021-11-16 10:54:04,777 - __main__ - INFO - epoch = 9, val/subCategory_acc2 = 98.41
+2021-11-16 10:54:04,777 - __main__ - INFO - ====================
+2021-11-16 10:54:35,716 - __main__ - INFO - epoch = 10, train/loss = 0.04746745933631533
+2021-11-16 10:54:35,716 - __main__ - INFO - epoch = 10, train/subCategory_acc1 = 98.57
+2021-11-16 10:54:35,717 - __main__ - INFO - epoch = 10, train/subCategory_acc2 = 99.81
+2021-11-16 10:54:37,374 - __main__ - INFO - epoch = 10, val/loss = 0.27323
+2021-11-16 10:54:37,375 - __main__ - INFO - epoch = 10, val/subCategory_acc1 = 93.26
+2021-11-16 10:54:37,376 - __main__ - INFO - epoch = 10, val/subCategory_acc2 = 97.57
+2021-11-16 10:54:37,376 - __main__ - INFO - ====================
+2021-11-16 10:55:07,586 - __main__ - INFO - epoch = 11, train/loss = 0.04086418067546267
+2021-11-16 10:55:07,587 - __main__ - INFO - epoch = 11, train/subCategory_acc1 = 98.69
+2021-11-16 10:55:07,588 - __main__ - INFO - epoch = 11, train/subCategory_acc2 = 99.82
+2021-11-16 10:55:09,251 - __main__ - INFO - epoch = 11, val/loss = 0.31429
+2021-11-16 10:55:09,252 - __main__ - INFO - epoch = 11, val/subCategory_acc1 = 93.37
+2021-11-16 10:55:09,253 - __main__ - INFO - epoch = 11, val/subCategory_acc2 = 97.78
+2021-11-16 10:55:09,253 - __main__ - INFO - ====================
+2021-11-16 10:55:39,451 - __main__ - INFO - epoch = 12, train/loss = 0.04218094688104956
+2021-11-16 10:55:39,451 - __main__ - INFO - epoch = 12, train/subCategory_acc1 = 98.72
+2021-11-16 10:55:39,452 - __main__ - INFO - epoch = 12, train/subCategory_acc2 = 99.79
+2021-11-16 10:55:41,111 - __main__ - INFO - epoch = 12, val/loss = 0.32024
+2021-11-16 10:55:41,113 - __main__ - INFO - epoch = 12, val/subCategory_acc1 = 92.65
+2021-11-16 10:55:41,113 - __main__ - INFO - epoch = 12, val/subCategory_acc2 = 97.37
+2021-11-16 10:55:41,113 - __main__ - INFO - ====================
+2021-11-16 10:56:11,370 - __main__ - INFO - epoch = 13, train/loss = 0.032640592685263405
+2021-11-16 10:56:11,371 - __main__ - INFO - epoch = 13, train/subCategory_acc1 = 99.01
+2021-11-16 10:56:11,371 - __main__ - INFO - epoch = 13, train/subCategory_acc2 = 99.9
+2021-11-16 10:56:13,026 - __main__ - INFO - epoch = 13, val/loss = 0.37405
+2021-11-16 10:56:13,027 - __main__ - INFO - epoch = 13, val/subCategory_acc1 = 92.59
+2021-11-16 10:56:13,028 - __main__ - INFO - epoch = 13, val/subCategory_acc2 = 97.44
+2021-11-16 10:56:13,028 - __main__ - INFO - ====================
+2021-11-16 10:56:43,324 - __main__ - INFO - epoch = 14, train/loss = 0.03462081961333752
+2021-11-16 10:56:43,325 - __main__ - INFO - epoch = 14, train/subCategory_acc1 = 98.93
+2021-11-16 10:56:43,326 - __main__ - INFO - epoch = 14, train/subCategory_acc2 = 99.88
+2021-11-16 10:56:44,991 - __main__ - INFO - epoch = 14, val/loss = 0.31688
+2021-11-16 10:56:44,992 - __main__ - INFO - epoch = 14, val/subCategory_acc1 = 92.99
+2021-11-16 10:56:44,992 - __main__ - INFO - epoch = 14, val/subCategory_acc2 = 97.78
+2021-11-16 10:56:44,992 - __main__ - INFO - ====================
+2021-11-16 10:57:15,361 - __main__ - INFO - epoch = 15, train/loss = 0.03504399479807992
+2021-11-16 10:57:15,361 - __main__ - INFO - epoch = 15, train/subCategory_acc1 = 98.89
+2021-11-16 10:57:15,362 - __main__ - INFO - epoch = 15, train/subCategory_acc2 = 99.85
+2021-11-16 10:57:17,021 - __main__ - INFO - epoch = 15, val/loss = 0.31296
+2021-11-16 10:57:17,022 - __main__ - INFO - epoch = 15, val/subCategory_acc1 = 92.88
+2021-11-16 10:57:17,023 - __main__ - INFO - epoch = 15, val/subCategory_acc2 = 97.44
+2021-11-16 10:57:17,023 - __main__ - INFO - ====================
+2021-11-16 10:57:47,252 - __main__ - INFO - epoch = 16, train/loss = 0.029305938337194293
+2021-11-16 10:57:47,253 - __main__ - INFO - epoch = 16, train/subCategory_acc1 = 99.06
+2021-11-16 10:57:47,253 - __main__ - INFO - epoch = 16, train/subCategory_acc2 = 99.91
+2021-11-16 10:57:48,921 - __main__ - INFO - epoch = 16, val/loss = 0.32704
+2021-11-16 10:57:48,922 - __main__ - INFO - epoch = 16, val/subCategory_acc1 = 92.43
+2021-11-16 10:57:48,923 - __main__ - INFO - epoch = 16, val/subCategory_acc2 = 97.53
+2021-11-16 10:57:48,923 - __main__ - INFO - ====================
+2021-11-16 10:58:19,202 - __main__ - INFO - epoch = 17, train/loss = 0.03019200147766816
+2021-11-16 10:58:19,203 - __main__ - INFO - epoch = 17, train/subCategory_acc1 = 99.05
+2021-11-16 10:58:19,204 - __main__ - INFO - epoch = 17, train/subCategory_acc2 = 99.9
+2021-11-16 10:58:20,875 - __main__ - INFO - epoch = 17, val/loss = 0.34635
+2021-11-16 10:58:20,876 - __main__ - INFO - epoch = 17, val/subCategory_acc1 = 91.94
+2021-11-16 10:58:20,877 - __main__ - INFO - epoch = 17, val/subCategory_acc2 = 96.83
+2021-11-16 10:58:20,877 - __main__ - INFO - ====================
+2021-11-16 10:58:51,124 - __main__ - INFO - epoch = 18, train/loss = 0.02613788725514161
+2021-11-16 10:58:51,125 - __main__ - INFO - epoch = 18, train/subCategory_acc1 = 99.14
+2021-11-16 10:58:51,125 - __main__ - INFO - epoch = 18, train/subCategory_acc2 = 99.91
+2021-11-16 10:58:52,792 - __main__ - INFO - epoch = 18, val/loss = 0.30285
+2021-11-16 10:58:52,793 - __main__ - INFO - epoch = 18, val/subCategory_acc1 = 93.49
+2021-11-16 10:58:52,794 - __main__ - INFO - epoch = 18, val/subCategory_acc2 = 97.35
+2021-11-16 10:58:52,794 - __main__ - INFO - ====================
+2021-11-16 10:59:23,169 - __main__ - INFO - epoch = 19, train/loss = 0.02436231620805828
+2021-11-16 10:59:23,170 - __main__ - INFO - epoch = 19, train/subCategory_acc1 = 99.23
+2021-11-16 10:59:23,171 - __main__ - INFO - epoch = 19, train/subCategory_acc2 = 99.92
+2021-11-16 10:59:24,856 - __main__ - INFO - epoch = 19, val/loss = 0.29699
+2021-11-16 10:59:24,857 - __main__ - INFO - epoch = 19, val/subCategory_acc1 = 93.33
+2021-11-16 10:59:24,858 - __main__ - INFO - epoch = 19, val/subCategory_acc2 = 97.48
+2021-11-16 10:59:24,858 - __main__ - INFO - ====================
+2021-11-16 10:59:56,135 - __main__ - INFO - epoch = 20, train/loss = 0.0278089281759764
+2021-11-16 10:59:56,135 - __main__ - INFO - epoch = 20, train/subCategory_acc1 = 99.2
+2021-11-16 10:59:56,136 - __main__ - INFO - epoch = 20, train/subCategory_acc2 = 99.9
+2021-11-16 10:59:57,815 - __main__ - INFO - epoch = 20, val/loss = 0.24547
+2021-11-16 10:59:57,815 - __main__ - INFO - epoch = 20, val/subCategory_acc1 = 94.38
+2021-11-16 10:59:57,816 - __main__ - INFO - epoch = 20, val/subCategory_acc2 = 98.25
+2021-11-16 10:59:57,816 - __main__ - INFO - ====================
+2021-11-16 11:00:28,014 - __main__ - INFO - epoch = 21, train/loss = 0.01840979246863801
+2021-11-16 11:00:28,015 - __main__ - INFO - epoch = 21, train/subCategory_acc1 = 99.43
+2021-11-16 11:00:28,016 - __main__ - INFO - epoch = 21, train/subCategory_acc2 = 99.93
+2021-11-16 11:00:29,667 - __main__ - INFO - epoch = 21, val/loss = 0.20748
+2021-11-16 11:00:29,668 - __main__ - INFO - epoch = 21, val/subCategory_acc1 = 94.95
+2021-11-16 11:00:29,668 - __main__ - INFO - epoch = 21, val/subCategory_acc2 = 98.7
+2021-11-16 11:00:29,669 - __main__ - INFO - ====================
+2021-11-16 11:01:00,628 - __main__ - INFO - epoch = 22, train/loss = 0.009871094708183878
+2021-11-16 11:01:00,628 - __main__ - INFO - epoch = 22, train/subCategory_acc1 = 99.72
+2021-11-16 11:01:00,629 - __main__ - INFO - epoch = 22, train/subCategory_acc2 = 99.96
+2021-11-16 11:01:02,287 - __main__ - INFO - epoch = 22, val/loss = 0.2116
+2021-11-16 11:01:02,287 - __main__ - INFO - epoch = 22, val/subCategory_acc1 = 95.08
+2021-11-16 11:01:02,288 - __main__ - INFO - epoch = 22, val/subCategory_acc2 = 98.63
+2021-11-16 11:01:02,288 - __main__ - INFO - ====================
+2021-11-16 11:01:32,490 - __main__ - INFO - epoch = 23, train/loss = 0.006675728896975909
+2021-11-16 11:01:32,491 - __main__ - INFO - epoch = 23, train/subCategory_acc1 = 99.81
+2021-11-16 11:01:32,492 - __main__ - INFO - epoch = 23, train/subCategory_acc2 = 99.98
+2021-11-16 11:01:34,139 - __main__ - INFO - epoch = 23, val/loss = 0.21777
+2021-11-16 11:01:34,140 - __main__ - INFO - epoch = 23, val/subCategory_acc1 = 95.1
+2021-11-16 11:01:34,141 - __main__ - INFO - epoch = 23, val/subCategory_acc2 = 98.65
+2021-11-16 11:01:34,141 - __main__ - INFO - ====================
+2021-11-16 11:02:05,528 - __main__ - INFO - epoch = 24, train/loss = 0.005409450290148686
+2021-11-16 11:02:05,529 - __main__ - INFO - epoch = 24, train/subCategory_acc1 = 99.83
+2021-11-16 11:02:05,530 - __main__ - INFO - epoch = 24, train/subCategory_acc2 = 99.99
+2021-11-16 11:02:07,182 - __main__ - INFO - epoch = 24, val/loss = 0.23322
+2021-11-16 11:02:07,184 - __main__ - INFO - epoch = 24, val/subCategory_acc1 = 94.81
+2021-11-16 11:02:07,184 - __main__ - INFO - epoch = 24, val/subCategory_acc2 = 98.56
+2021-11-16 11:02:07,185 - __main__ - INFO - ====================
+2021-11-16 11:02:37,715 - __main__ - INFO - epoch = 25, train/loss = 0.005188403501003785
+2021-11-16 11:02:37,716 - __main__ - INFO - epoch = 25, train/subCategory_acc1 = 99.84
+2021-11-16 11:02:37,717 - __main__ - INFO - epoch = 25, train/subCategory_acc2 = 99.98
+2021-11-16 11:02:39,384 - __main__ - INFO - epoch = 25, val/loss = 0.23504
+2021-11-16 11:02:39,384 - __main__ - INFO - epoch = 25, val/subCategory_acc1 = 94.83
+2021-11-16 11:02:39,385 - __main__ - INFO - epoch = 25, val/subCategory_acc2 = 98.54
+2021-11-16 11:02:39,385 - __main__ - INFO - ====================
+2021-11-16 11:03:09,586 - __main__ - INFO - epoch = 26, train/loss = 0.003646904310076743
+2021-11-16 11:03:09,587 - __main__ - INFO - epoch = 26, train/subCategory_acc1 = 99.9
+2021-11-16 11:03:09,587 - __main__ - INFO - epoch = 26, train/subCategory_acc2 = 99.99
+2021-11-16 11:03:11,259 - __main__ - INFO - epoch = 26, val/loss = 0.2379
+2021-11-16 11:03:11,259 - __main__ - INFO - epoch = 26, val/subCategory_acc1 = 94.92
+2021-11-16 11:03:11,259 - __main__ - INFO - epoch = 26, val/subCategory_acc2 = 98.58
+2021-11-16 11:03:11,260 - __main__ - INFO - ====================
+2021-11-16 11:03:41,501 - __main__ - INFO - epoch = 27, train/loss = 0.003917115507647395
+2021-11-16 11:03:41,501 - __main__ - INFO - epoch = 27, train/subCategory_acc1 = 99.9
+2021-11-16 11:03:41,502 - __main__ - INFO - epoch = 27, train/subCategory_acc2 = 99.98
+2021-11-16 11:03:43,168 - __main__ - INFO - epoch = 27, val/loss = 0.23946
+2021-11-16 11:03:43,170 - __main__ - INFO - epoch = 27, val/subCategory_acc1 = 94.99
+2021-11-16 11:03:43,171 - __main__ - INFO - epoch = 27, val/subCategory_acc2 = 98.7
+2021-11-16 11:03:43,171 - __main__ - INFO - ====================
+2021-11-16 11:04:13,370 - __main__ - INFO - epoch = 28, train/loss = 0.0031734535265346303
+2021-11-16 11:04:13,371 - __main__ - INFO - epoch = 28, train/subCategory_acc1 = 99.91
+2021-11-16 11:04:13,371 - __main__ - INFO - epoch = 28, train/subCategory_acc2 = 99.99
+2021-11-16 11:04:15,027 - __main__ - INFO - epoch = 28, val/loss = 0.24122
+2021-11-16 11:04:15,028 - __main__ - INFO - epoch = 28, val/subCategory_acc1 = 95.04
+2021-11-16 11:04:15,028 - __main__ - INFO - epoch = 28, val/subCategory_acc2 = 98.61
+2021-11-16 11:04:15,028 - __main__ - INFO - ====================
+2021-11-16 11:04:45,222 - __main__ - INFO - epoch = 29, train/loss = 0.0027888988935094523
+2021-11-16 11:04:45,222 - __main__ - INFO - epoch = 29, train/subCategory_acc1 = 99.94
+2021-11-16 11:04:45,223 - __main__ - INFO - epoch = 29, train/subCategory_acc2 = 99.99
+2021-11-16 11:04:46,870 - __main__ - INFO - epoch = 29, val/loss = 0.25468
+2021-11-16 11:04:46,871 - __main__ - INFO - epoch = 29, val/subCategory_acc1 = 94.72
+2021-11-16 11:04:46,871 - __main__ - INFO - epoch = 29, val/subCategory_acc2 = 98.58
+2021-11-16 11:04:46,871 - __main__ - INFO - ====================
+2021-11-16 11:05:17,074 - __main__ - INFO - epoch = 30, train/loss = 0.002949026005808264
+2021-11-16 11:05:17,075 - __main__ - INFO - epoch = 30, train/subCategory_acc1 = 99.9
+2021-11-16 11:05:17,075 - __main__ - INFO - epoch = 30, train/subCategory_acc2 = 99.99
+2021-11-16 11:05:18,730 - __main__ - INFO - epoch = 30, val/loss = 0.25657
+2021-11-16 11:05:18,731 - __main__ - INFO - epoch = 30, val/subCategory_acc1 = 94.81
+2021-11-16 11:05:18,732 - __main__ - INFO - epoch = 30, val/subCategory_acc2 = 98.52
+2021-11-16 11:05:18,732 - __main__ - INFO - ====================
+2021-11-16 11:05:48,937 - __main__ - INFO - epoch = 31, train/loss = 0.0024594893391048046
+2021-11-16 11:05:48,937 - __main__ - INFO - epoch = 31, train/subCategory_acc1 = 99.93
+2021-11-16 11:05:48,938 - __main__ - INFO - epoch = 31, train/subCategory_acc2 = 99.99
+2021-11-16 11:05:50,602 - __main__ - INFO - epoch = 31, val/loss = 0.26096
+2021-11-16 11:05:50,603 - __main__ - INFO - epoch = 31, val/subCategory_acc1 = 94.97
+2021-11-16 11:05:50,604 - __main__ - INFO - epoch = 31, val/subCategory_acc2 = 98.54
+2021-11-16 11:05:50,604 - __main__ - INFO - ====================
+2021-11-16 11:06:20,774 - __main__ - INFO - epoch = 32, train/loss = 0.002290342158582797
+2021-11-16 11:06:20,775 - __main__ - INFO - epoch = 32, train/subCategory_acc1 = 99.95
+2021-11-16 11:06:20,776 - __main__ - INFO - epoch = 32, train/subCategory_acc2 = 99.99
+2021-11-16 11:06:22,434 - __main__ - INFO - epoch = 32, val/loss = 0.25735
+2021-11-16 11:06:22,435 - __main__ - INFO - epoch = 32, val/subCategory_acc1 = 95.06
+2021-11-16 11:06:22,436 - __main__ - INFO - epoch = 32, val/subCategory_acc2 = 98.56
+2021-11-16 11:06:22,436 - __main__ - INFO - ====================
+2021-11-16 11:06:52,623 - __main__ - INFO - epoch = 33, train/loss = 0.0020310407394151155
+2021-11-16 11:06:52,624 - __main__ - INFO - epoch = 33, train/subCategory_acc1 = 99.94
+2021-11-16 11:06:52,625 - __main__ - INFO - epoch = 33, train/subCategory_acc2 = 99.99
+2021-11-16 11:06:54,355 - __main__ - INFO - epoch = 33, val/loss = 0.25852
+2021-11-16 11:06:54,356 - __main__ - INFO - epoch = 33, val/subCategory_acc1 = 95.06
+2021-11-16 11:06:54,356 - __main__ - INFO - epoch = 33, val/subCategory_acc2 = 98.54
+2021-11-16 11:06:54,356 - __main__ - INFO - ====================
+2021-11-16 11:07:24,550 - __main__ - INFO - epoch = 34, train/loss = 0.002018132106106924
+2021-11-16 11:07:24,551 - __main__ - INFO - epoch = 34, train/subCategory_acc1 = 99.94
+2021-11-16 11:07:24,551 - __main__ - INFO - epoch = 34, train/subCategory_acc2 = 100.0
+2021-11-16 11:07:26,225 - __main__ - INFO - epoch = 34, val/loss = 0.25891
+2021-11-16 11:07:26,226 - __main__ - INFO - epoch = 34, val/subCategory_acc1 = 95.04
+2021-11-16 11:07:26,227 - __main__ - INFO - epoch = 34, val/subCategory_acc2 = 98.61
+2021-11-16 11:07:26,227 - __main__ - INFO - ====================
+2021-11-16 11:07:56,456 - __main__ - INFO - epoch = 35, train/loss = 0.0025198812432599403
+2021-11-16 11:07:56,457 - __main__ - INFO - epoch = 35, train/subCategory_acc1 = 99.92
+2021-11-16 11:07:56,457 - __main__ - INFO - epoch = 35, train/subCategory_acc2 = 100.0
+2021-11-16 11:07:58,195 - __main__ - INFO - epoch = 35, val/loss = 0.25925
+2021-11-16 11:07:58,196 - __main__ - INFO - epoch = 35, val/subCategory_acc1 = 95.01
+2021-11-16 11:07:58,197 - __main__ - INFO - epoch = 35, val/subCategory_acc2 = 98.61
+2021-11-16 11:07:58,197 - __main__ - INFO - ====================
+2021-11-16 11:08:28,471 - __main__ - INFO - epoch = 36, train/loss = 0.002150412808987312
+2021-11-16 11:08:28,472 - __main__ - INFO - epoch = 36, train/subCategory_acc1 = 99.94
+2021-11-16 11:08:28,472 - __main__ - INFO - epoch = 36, train/subCategory_acc2 = 99.99
+2021-11-16 11:08:30,204 - __main__ - INFO - epoch = 36, val/loss = 0.25921
+2021-11-16 11:08:30,204 - __main__ - INFO - epoch = 36, val/subCategory_acc1 = 95.08
+2021-11-16 11:08:30,205 - __main__ - INFO - epoch = 36, val/subCategory_acc2 = 98.54
+2021-11-16 11:08:30,205 - __main__ - INFO - ====================
+2021-11-16 11:09:00,423 - __main__ - INFO - epoch = 37, train/loss = 0.0023659953937902557
+2021-11-16 11:09:00,424 - __main__ - INFO - epoch = 37, train/subCategory_acc1 = 99.94
+2021-11-16 11:09:00,424 - __main__ - INFO - epoch = 37, train/subCategory_acc2 = 99.99
+2021-11-16 11:09:02,087 - __main__ - INFO - epoch = 37, val/loss = 0.25972
+2021-11-16 11:09:02,088 - __main__ - INFO - epoch = 37, val/subCategory_acc1 = 95.04
+2021-11-16 11:09:02,089 - __main__ - INFO - epoch = 37, val/subCategory_acc2 = 98.56
+2021-11-16 11:09:02,089 - __main__ - INFO - ====================
+2021-11-16 11:09:32,293 - __main__ - INFO - epoch = 38, train/loss = 0.0019937068251525297
+2021-11-16 11:09:32,294 - __main__ - INFO - epoch = 38, train/subCategory_acc1 = 99.96
+2021-11-16 11:09:32,295 - __main__ - INFO - epoch = 38, train/subCategory_acc2 = 100.0
+2021-11-16 11:09:33,935 - __main__ - INFO - epoch = 38, val/loss = 0.25982
+2021-11-16 11:09:33,935 - __main__ - INFO - epoch = 38, val/subCategory_acc1 = 95.06
+2021-11-16 11:09:33,936 - __main__ - INFO - epoch = 38, val/subCategory_acc2 = 98.56
+2021-11-16 11:09:33,936 - __main__ - INFO - ====================
+2021-11-16 11:10:04,182 - __main__ - INFO - epoch = 39, train/loss = 0.001302718299006014
+2021-11-16 11:10:04,183 - __main__ - INFO - epoch = 39, train/subCategory_acc1 = 99.96
+2021-11-16 11:10:04,184 - __main__ - INFO - epoch = 39, train/subCategory_acc2 = 100.0
+2021-11-16 11:10:05,848 - __main__ - INFO - epoch = 39, val/loss = 0.2604
+2021-11-16 11:10:05,849 - __main__ - INFO - epoch = 39, val/subCategory_acc1 = 95.06
+2021-11-16 11:10:05,849 - __main__ - INFO - epoch = 39, val/subCategory_acc2 = 98.54
+2021-11-16 11:10:05,849 - __main__ - INFO - ====================
+2021-11-16 11:10:36,058 - __main__ - INFO - epoch = 40, train/loss = 0.0017953546684063774
+2021-11-16 11:10:36,059 - __main__ - INFO - epoch = 40, train/subCategory_acc1 = 99.96
+2021-11-16 11:10:36,059 - __main__ - INFO - epoch = 40, train/subCategory_acc2 = 100.0
+2021-11-16 11:10:37,714 - __main__ - INFO - epoch = 40, val/loss = 0.2603
+2021-11-16 11:10:37,715 - __main__ - INFO - epoch = 40, val/subCategory_acc1 = 95.1
+2021-11-16 11:10:37,716 - __main__ - INFO - epoch = 40, val/subCategory_acc2 = 98.52
+2021-11-16 11:10:37,716 - __main__ - INFO - ====================
+2021-11-16 11:11:07,919 - __main__ - INFO - epoch = 41, train/loss = 0.002363035896498906
+2021-11-16 11:11:07,920 - __main__ - INFO - epoch = 41, train/subCategory_acc1 = 99.93
+2021-11-16 11:11:07,920 - __main__ - INFO - epoch = 41, train/subCategory_acc2 = 100.0
+2021-11-16 11:11:09,581 - __main__ - INFO - epoch = 41, val/loss = 0.26008
+2021-11-16 11:11:09,582 - __main__ - INFO - epoch = 41, val/subCategory_acc1 = 95.08
+2021-11-16 11:11:09,583 - __main__ - INFO - epoch = 41, val/subCategory_acc2 = 98.52
+2021-11-16 11:11:09,583 - __main__ - INFO - ====================
+2021-11-16 11:11:39,818 - __main__ - INFO - epoch = 42, train/loss = 0.0017421195409138147
+2021-11-16 11:11:39,819 - __main__ - INFO - epoch = 42, train/subCategory_acc1 = 99.96
+2021-11-16 11:11:39,819 - __main__ - INFO - epoch = 42, train/subCategory_acc2 = 100.0
+2021-11-16 11:11:41,471 - __main__ - INFO - epoch = 42, val/loss = 0.25961
+2021-11-16 11:11:41,471 - __main__ - INFO - epoch = 42, val/subCategory_acc1 = 95.06
+2021-11-16 11:11:41,472 - __main__ - INFO - epoch = 42, val/subCategory_acc2 = 98.5
+2021-11-16 11:11:41,472 - __main__ - INFO - ====================
+2021-11-16 11:12:11,658 - __main__ - INFO - epoch = 43, train/loss = 0.0020552614051235936
+2021-11-16 11:12:11,659 - __main__ - INFO - epoch = 43, train/subCategory_acc1 = 99.95
+2021-11-16 11:12:11,659 - __main__ - INFO - epoch = 43, train/subCategory_acc2 = 99.99
+2021-11-16 11:12:13,307 - __main__ - INFO - epoch = 43, val/loss = 0.26141
+2021-11-16 11:12:13,308 - __main__ - INFO - epoch = 43, val/subCategory_acc1 = 95.15
+2021-11-16 11:12:13,308 - __main__ - INFO - epoch = 43, val/subCategory_acc2 = 98.5
+2021-11-16 11:12:13,308 - __main__ - INFO - ====================
+2021-11-16 11:12:43,516 - __main__ - INFO - epoch = 44, train/loss = 0.0018714860381901656
+2021-11-16 11:12:43,517 - __main__ - INFO - epoch = 44, train/subCategory_acc1 = 99.93
+2021-11-16 11:12:43,517 - __main__ - INFO - epoch = 44, train/subCategory_acc2 = 99.99
+2021-11-16 11:12:45,179 - __main__ - INFO - epoch = 44, val/loss = 0.26053
+2021-11-16 11:12:45,180 - __main__ - INFO - epoch = 44, val/subCategory_acc1 = 95.13
+2021-11-16 11:12:45,180 - __main__ - INFO - epoch = 44, val/subCategory_acc2 = 98.5
+2021-11-16 11:12:45,180 - __main__ - INFO - ====================
+2021-11-16 11:13:15,379 - __main__ - INFO - epoch = 45, train/loss = 0.00197622535128367
+2021-11-16 11:13:15,380 - __main__ - INFO - epoch = 45, train/subCategory_acc1 = 99.94
+2021-11-16 11:13:15,381 - __main__ - INFO - epoch = 45, train/subCategory_acc2 = 99.99
+2021-11-16 11:13:17,041 - __main__ - INFO - epoch = 45, val/loss = 0.26066
+2021-11-16 11:13:17,042 - __main__ - INFO - epoch = 45, val/subCategory_acc1 = 95.13
+2021-11-16 11:13:17,043 - __main__ - INFO - epoch = 45, val/subCategory_acc2 = 98.47
+2021-11-16 11:13:17,043 - __main__ - INFO - ====================
+2021-11-16 11:13:47,228 - __main__ - INFO - epoch = 46, train/loss = 0.0019101665522229222
+2021-11-16 11:13:47,229 - __main__ - INFO - epoch = 46, train/subCategory_acc1 = 99.94
+2021-11-16 11:13:47,229 - __main__ - INFO - epoch = 46, train/subCategory_acc2 = 100.0
+2021-11-16 11:13:48,883 - __main__ - INFO - epoch = 46, val/loss = 0.26139
+2021-11-16 11:13:48,884 - __main__ - INFO - epoch = 46, val/subCategory_acc1 = 95.08
+2021-11-16 11:13:48,886 - __main__ - INFO - epoch = 46, val/subCategory_acc2 = 98.5
+2021-11-16 11:13:48,886 - __main__ - INFO - ====================
+2021-11-16 11:14:19,076 - __main__ - INFO - epoch = 47, train/loss = 0.0023111967043644797
+2021-11-16 11:14:19,077 - __main__ - INFO - epoch = 47, train/subCategory_acc1 = 99.94
+2021-11-16 11:14:19,077 - __main__ - INFO - epoch = 47, train/subCategory_acc2 = 99.99
+2021-11-16 11:14:20,723 - __main__ - INFO - epoch = 47, val/loss = 0.26111
+2021-11-16 11:14:20,724 - __main__ - INFO - epoch = 47, val/subCategory_acc1 = 95.08
+2021-11-16 11:14:20,724 - __main__ - INFO - epoch = 47, val/subCategory_acc2 = 98.5
+2021-11-16 11:14:20,724 - __main__ - INFO - ====================
+2021-11-16 11:14:50,921 - __main__ - INFO - epoch = 48, train/loss = 0.0011482499647076782
+2021-11-16 11:14:50,922 - __main__ - INFO - epoch = 48, train/subCategory_acc1 = 99.97
+2021-11-16 11:14:50,922 - __main__ - INFO - epoch = 48, train/subCategory_acc2 = 100.0
+2021-11-16 11:14:52,585 - __main__ - INFO - epoch = 48, val/loss = 0.26181
+2021-11-16 11:14:52,586 - __main__ - INFO - epoch = 48, val/subCategory_acc1 = 95.06
+2021-11-16 11:14:52,587 - __main__ - INFO - epoch = 48, val/subCategory_acc2 = 98.54
+2021-11-16 11:14:52,587 - __main__ - INFO - ====================
+2021-11-16 11:15:22,831 - __main__ - INFO - epoch = 49, train/loss = 0.0018101472838009756
+2021-11-16 11:15:22,831 - __main__ - INFO - epoch = 49, train/subCategory_acc1 = 99.96
+2021-11-16 11:15:22,832 - __main__ - INFO - epoch = 49, train/subCategory_acc2 = 99.99
+2021-11-16 11:15:24,481 - __main__ - INFO - epoch = 49, val/loss = 0.2615
+2021-11-16 11:15:24,482 - __main__ - INFO - epoch = 49, val/subCategory_acc1 = 95.08
+2021-11-16 11:15:24,483 - __main__ - INFO - epoch = 49, val/subCategory_acc2 = 98.5
+2021-11-16 11:15:24,483 - __main__ - INFO - ====================

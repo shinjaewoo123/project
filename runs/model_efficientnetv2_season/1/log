@@ -1,0 +1,353 @@
+2021-11-16 12:37:45,784 - __main__ - INFO - Main module is initialized.
+2021-11-16 12:37:45,852 - __main__ - INFO - number of train data 38
+2021-11-16 12:37:45,852 - __main__ - INFO - number of val data 5
+2021-11-16 12:38:21,362 - __main__ - INFO - epoch = 0, train/loss = 0.7970873603695318
+2021-11-16 12:38:21,363 - __main__ - INFO - epoch = 0, train/season_acc1 = 65.23
+2021-11-16 12:38:21,364 - __main__ - INFO - epoch = 0, train/season_acc2 = 90.48
+2021-11-16 12:38:23,529 - __main__ - INFO - epoch = 0, val/loss = 0.76331
+2021-11-16 12:38:23,531 - __main__ - INFO - epoch = 0, val/season_acc1 = 68.13
+2021-11-16 12:38:23,531 - __main__ - INFO - epoch = 0, val/season_acc2 = 92.59
+2021-11-16 12:38:23,531 - __main__ - INFO - ====================
+2021-11-16 12:38:53,586 - __main__ - INFO - epoch = 1, train/loss = 0.6367054377731524
+2021-11-16 12:38:53,587 - __main__ - INFO - epoch = 1, train/season_acc1 = 73.67
+2021-11-16 12:38:53,587 - __main__ - INFO - epoch = 1, train/season_acc2 = 93.84
+2021-11-16 12:38:55,193 - __main__ - INFO - epoch = 1, val/loss = 0.70337
+2021-11-16 12:38:55,194 - __main__ - INFO - epoch = 1, val/season_acc1 = 71.07
+2021-11-16 12:38:55,195 - __main__ - INFO - epoch = 1, val/season_acc2 = 92.83
+2021-11-16 12:38:55,195 - __main__ - INFO - ====================
+2021-11-16 12:39:25,918 - __main__ - INFO - epoch = 2, train/loss = 0.563387277879213
+2021-11-16 12:39:25,919 - __main__ - INFO - epoch = 2, train/season_acc1 = 77.21
+2021-11-16 12:39:25,920 - __main__ - INFO - epoch = 2, train/season_acc2 = 94.73
+2021-11-16 12:39:27,606 - __main__ - INFO - epoch = 2, val/loss = 0.77348
+2021-11-16 12:39:27,607 - __main__ - INFO - epoch = 2, val/season_acc1 = 68.87
+2021-11-16 12:39:27,608 - __main__ - INFO - epoch = 2, val/season_acc2 = 92.05
+2021-11-16 12:39:27,608 - __main__ - INFO - ====================
+2021-11-16 12:39:57,697 - __main__ - INFO - epoch = 3, train/loss = 0.5137383012395156
+2021-11-16 12:39:57,698 - __main__ - INFO - epoch = 3, train/season_acc1 = 79.48
+2021-11-16 12:39:57,699 - __main__ - INFO - epoch = 3, train/season_acc2 = 95.52
+2021-11-16 12:39:59,332 - __main__ - INFO - epoch = 3, val/loss = 0.75187
+2021-11-16 12:39:59,332 - __main__ - INFO - epoch = 3, val/season_acc1 = 70.96
+2021-11-16 12:39:59,333 - __main__ - INFO - epoch = 3, val/season_acc2 = 92.54
+2021-11-16 12:39:59,333 - __main__ - INFO - ====================
+2021-11-16 12:40:29,437 - __main__ - INFO - epoch = 4, train/loss = 0.46615218488793625
+2021-11-16 12:40:29,438 - __main__ - INFO - epoch = 4, train/season_acc1 = 81.43
+2021-11-16 12:40:29,438 - __main__ - INFO - epoch = 4, train/season_acc2 = 96.16
+2021-11-16 12:40:31,080 - __main__ - INFO - epoch = 4, val/loss = 0.80114
+2021-11-16 12:40:31,082 - __main__ - INFO - epoch = 4, val/season_acc1 = 70.55
+2021-11-16 12:40:31,083 - __main__ - INFO - epoch = 4, val/season_acc2 = 92.36
+2021-11-16 12:40:31,083 - __main__ - INFO - ====================
+2021-11-16 12:41:01,261 - __main__ - INFO - epoch = 5, train/loss = 0.42471874152359207
+2021-11-16 12:41:01,261 - __main__ - INFO - epoch = 5, train/season_acc1 = 83.39
+2021-11-16 12:41:01,262 - __main__ - INFO - epoch = 5, train/season_acc2 = 96.55
+2021-11-16 12:41:02,899 - __main__ - INFO - epoch = 5, val/loss = 0.85713
+2021-11-16 12:41:02,900 - __main__ - INFO - epoch = 5, val/season_acc1 = 69.27
+2021-11-16 12:41:02,901 - __main__ - INFO - epoch = 5, val/season_acc2 = 90.99
+2021-11-16 12:41:02,901 - __main__ - INFO - ====================
+2021-11-16 12:41:33,192 - __main__ - INFO - epoch = 6, train/loss = 0.38838116510918264
+2021-11-16 12:41:33,193 - __main__ - INFO - epoch = 6, train/season_acc1 = 84.57
+2021-11-16 12:41:33,194 - __main__ - INFO - epoch = 6, train/season_acc2 = 97.1
+2021-11-16 12:41:34,915 - __main__ - INFO - epoch = 6, val/loss = 0.79876
+2021-11-16 12:41:34,915 - __main__ - INFO - epoch = 6, val/season_acc1 = 73.05
+2021-11-16 12:41:34,916 - __main__ - INFO - epoch = 6, val/season_acc2 = 91.67
+2021-11-16 12:41:34,916 - __main__ - INFO - ====================
+2021-11-16 12:42:05,247 - __main__ - INFO - epoch = 7, train/loss = 0.3533624912563123
+2021-11-16 12:42:05,248 - __main__ - INFO - epoch = 7, train/season_acc1 = 86.09
+2021-11-16 12:42:05,249 - __main__ - INFO - epoch = 7, train/season_acc2 = 97.59
+2021-11-16 12:42:06,893 - __main__ - INFO - epoch = 7, val/loss = 0.83552
+2021-11-16 12:42:06,894 - __main__ - INFO - epoch = 7, val/season_acc1 = 71.77
+2021-11-16 12:42:06,895 - __main__ - INFO - epoch = 7, val/season_acc2 = 91.44
+2021-11-16 12:42:06,895 - __main__ - INFO - ====================
+2021-11-16 12:42:37,098 - __main__ - INFO - epoch = 8, train/loss = 0.31110959029511404
+2021-11-16 12:42:37,098 - __main__ - INFO - epoch = 8, train/season_acc1 = 87.91
+2021-11-16 12:42:37,099 - __main__ - INFO - epoch = 8, train/season_acc2 = 98.12
+2021-11-16 12:42:38,783 - __main__ - INFO - epoch = 8, val/loss = 0.85802
+2021-11-16 12:42:38,783 - __main__ - INFO - epoch = 8, val/season_acc1 = 73.81
+2021-11-16 12:42:38,784 - __main__ - INFO - epoch = 8, val/season_acc2 = 92.41
+2021-11-16 12:42:38,784 - __main__ - INFO - ====================
+2021-11-16 12:43:08,990 - __main__ - INFO - epoch = 9, train/loss = 0.27948096629820374
+2021-11-16 12:43:08,991 - __main__ - INFO - epoch = 9, train/season_acc1 = 89.27
+2021-11-16 12:43:08,991 - __main__ - INFO - epoch = 9, train/season_acc2 = 98.33
+2021-11-16 12:43:10,628 - __main__ - INFO - epoch = 9, val/loss = 0.92642
+2021-11-16 12:43:10,628 - __main__ - INFO - epoch = 9, val/season_acc1 = 72.15
+2021-11-16 12:43:10,629 - __main__ - INFO - epoch = 9, val/season_acc2 = 91.87
+2021-11-16 12:43:10,629 - __main__ - INFO - ====================
+2021-11-16 12:43:41,265 - __main__ - INFO - epoch = 10, train/loss = 0.25106958574370336
+2021-11-16 12:43:41,265 - __main__ - INFO - epoch = 10, train/season_acc1 = 90.4
+2021-11-16 12:43:41,266 - __main__ - INFO - epoch = 10, train/season_acc2 = 98.61
+2021-11-16 12:43:42,920 - __main__ - INFO - epoch = 10, val/loss = 0.9639
+2021-11-16 12:43:42,921 - __main__ - INFO - epoch = 10, val/season_acc1 = 72.82
+2021-11-16 12:43:42,922 - __main__ - INFO - epoch = 10, val/season_acc2 = 92.0
+2021-11-16 12:43:42,922 - __main__ - INFO - ====================
+2021-11-16 12:44:13,332 - __main__ - INFO - epoch = 11, train/loss = 0.232418901826206
+2021-11-16 12:44:13,332 - __main__ - INFO - epoch = 11, train/season_acc1 = 91.14
+2021-11-16 12:44:13,333 - __main__ - INFO - epoch = 11, train/season_acc2 = 98.78
+2021-11-16 12:44:15,299 - __main__ - INFO - epoch = 11, val/loss = 0.90907
+2021-11-16 12:44:15,300 - __main__ - INFO - epoch = 11, val/season_acc1 = 71.52
+2021-11-16 12:44:15,300 - __main__ - INFO - epoch = 11, val/season_acc2 = 92.99
+2021-11-16 12:44:15,301 - __main__ - INFO - ====================
+2021-11-16 12:44:45,479 - __main__ - INFO - epoch = 12, train/loss = 0.20595816483623103
+2021-11-16 12:44:45,480 - __main__ - INFO - epoch = 12, train/season_acc1 = 92.22
+2021-11-16 12:44:45,480 - __main__ - INFO - epoch = 12, train/season_acc2 = 99.08
+2021-11-16 12:44:47,118 - __main__ - INFO - epoch = 12, val/loss = 0.90497
+2021-11-16 12:44:47,119 - __main__ - INFO - epoch = 12, val/season_acc1 = 73.32
+2021-11-16 12:44:47,120 - __main__ - INFO - epoch = 12, val/season_acc2 = 93.13
+2021-11-16 12:44:47,120 - __main__ - INFO - ====================
+2021-11-16 12:45:17,340 - __main__ - INFO - epoch = 13, train/loss = 0.15018623439889206
+2021-11-16 12:45:17,341 - __main__ - INFO - epoch = 13, train/season_acc1 = 94.49
+2021-11-16 12:45:17,341 - __main__ - INFO - epoch = 13, train/season_acc2 = 99.4
+2021-11-16 12:45:18,999 - __main__ - INFO - epoch = 13, val/loss = 0.8639
+2021-11-16 12:45:19,000 - __main__ - INFO - epoch = 13, val/season_acc1 = 75.97
+2021-11-16 12:45:19,001 - __main__ - INFO - epoch = 13, val/season_acc2 = 93.8
+2021-11-16 12:45:19,001 - __main__ - INFO - ====================
+2021-11-16 12:45:49,337 - __main__ - INFO - epoch = 14, train/loss = 0.09229078614398052
+2021-11-16 12:45:49,338 - __main__ - INFO - epoch = 14, train/season_acc1 = 96.66
+2021-11-16 12:45:49,338 - __main__ - INFO - epoch = 14, train/season_acc2 = 99.71
+2021-11-16 12:45:51,003 - __main__ - INFO - epoch = 14, val/loss = 0.979
+2021-11-16 12:45:51,003 - __main__ - INFO - epoch = 14, val/season_acc1 = 76.62
+2021-11-16 12:45:51,004 - __main__ - INFO - epoch = 14, val/season_acc2 = 93.82
+2021-11-16 12:45:51,004 - __main__ - INFO - ====================
+2021-11-16 12:46:30,794 - __main__ - INFO - epoch = 15, train/loss = 0.07155288393168073
+2021-11-16 12:46:30,795 - __main__ - INFO - epoch = 15, train/season_acc1 = 97.42
+2021-11-16 12:46:30,795 - __main__ - INFO - epoch = 15, train/season_acc2 = 99.82
+2021-11-16 12:46:32,826 - __main__ - INFO - epoch = 15, val/loss = 1.04661
+2021-11-16 12:46:32,827 - __main__ - INFO - epoch = 15, val/season_acc1 = 76.48
+2021-11-16 12:46:32,828 - __main__ - INFO - epoch = 15, val/season_acc2 = 93.85
+2021-11-16 12:46:32,828 - __main__ - INFO - ====================
+2021-11-16 12:47:04,372 - __main__ - INFO - epoch = 16, train/loss = 0.05828459649101684
+2021-11-16 12:47:04,373 - __main__ - INFO - epoch = 16, train/season_acc1 = 97.93
+2021-11-16 12:47:04,374 - __main__ - INFO - epoch = 16, train/season_acc2 = 99.85
+2021-11-16 12:47:06,015 - __main__ - INFO - epoch = 16, val/loss = 1.10238
+2021-11-16 12:47:06,016 - __main__ - INFO - epoch = 16, val/season_acc1 = 76.95
+2021-11-16 12:47:06,016 - __main__ - INFO - epoch = 16, val/season_acc2 = 93.82
+2021-11-16 12:47:06,016 - __main__ - INFO - ====================
+2021-11-16 12:47:36,232 - __main__ - INFO - epoch = 17, train/loss = 0.04935216942900106
+2021-11-16 12:47:36,233 - __main__ - INFO - epoch = 17, train/season_acc1 = 98.27
+2021-11-16 12:47:36,233 - __main__ - INFO - epoch = 17, train/season_acc2 = 99.9
+2021-11-16 12:47:37,881 - __main__ - INFO - epoch = 17, val/loss = 1.17104
+2021-11-16 12:47:37,882 - __main__ - INFO - epoch = 17, val/season_acc1 = 76.44
+2021-11-16 12:47:37,883 - __main__ - INFO - epoch = 17, val/season_acc2 = 93.94
+2021-11-16 12:47:37,883 - __main__ - INFO - ====================
+2021-11-16 12:48:08,079 - __main__ - INFO - epoch = 18, train/loss = 0.0429921637436277
+2021-11-16 12:48:08,080 - __main__ - INFO - epoch = 18, train/season_acc1 = 98.51
+2021-11-16 12:48:08,080 - __main__ - INFO - epoch = 18, train/season_acc2 = 99.88
+2021-11-16 12:48:09,724 - __main__ - INFO - epoch = 18, val/loss = 1.22362
+2021-11-16 12:48:09,725 - __main__ - INFO - epoch = 18, val/season_acc1 = 76.48
+2021-11-16 12:48:09,725 - __main__ - INFO - epoch = 18, val/season_acc2 = 93.87
+2021-11-16 12:48:09,726 - __main__ - INFO - ====================
+2021-11-16 12:48:39,966 - __main__ - INFO - epoch = 19, train/loss = 0.03634861582203915
+2021-11-16 12:48:39,966 - __main__ - INFO - epoch = 19, train/season_acc1 = 98.72
+2021-11-16 12:48:39,967 - __main__ - INFO - epoch = 19, train/season_acc2 = 99.94
+2021-11-16 12:48:41,651 - __main__ - INFO - epoch = 19, val/loss = 1.27272
+2021-11-16 12:48:41,652 - __main__ - INFO - epoch = 19, val/season_acc1 = 76.59
+2021-11-16 12:48:41,652 - __main__ - INFO - epoch = 19, val/season_acc2 = 93.98
+2021-11-16 12:48:41,652 - __main__ - INFO - ====================
+2021-11-16 12:49:11,886 - __main__ - INFO - epoch = 20, train/loss = 0.03269068798736522
+2021-11-16 12:49:11,887 - __main__ - INFO - epoch = 20, train/season_acc1 = 98.85
+2021-11-16 12:49:11,888 - __main__ - INFO - epoch = 20, train/season_acc2 = 99.93
+2021-11-16 12:49:13,536 - __main__ - INFO - epoch = 20, val/loss = 1.3333
+2021-11-16 12:49:13,536 - __main__ - INFO - epoch = 20, val/season_acc1 = 76.53
+2021-11-16 12:49:13,537 - __main__ - INFO - epoch = 20, val/season_acc2 = 93.8
+2021-11-16 12:49:13,537 - __main__ - INFO - ====================
+2021-11-16 12:49:43,717 - __main__ - INFO - epoch = 21, train/loss = 0.030633162707090378
+2021-11-16 12:49:43,718 - __main__ - INFO - epoch = 21, train/season_acc1 = 98.96
+2021-11-16 12:49:43,718 - __main__ - INFO - epoch = 21, train/season_acc2 = 99.95
+2021-11-16 12:49:45,349 - __main__ - INFO - epoch = 21, val/loss = 1.38031
+2021-11-16 12:49:45,350 - __main__ - INFO - epoch = 21, val/season_acc1 = 76.06
+2021-11-16 12:49:45,351 - __main__ - INFO - epoch = 21, val/season_acc2 = 93.69
+2021-11-16 12:49:45,351 - __main__ - INFO - ====================
+2021-11-16 12:50:15,563 - __main__ - INFO - epoch = 22, train/loss = 0.026966127566993237
+2021-11-16 12:50:15,564 - __main__ - INFO - epoch = 22, train/season_acc1 = 99.12
+2021-11-16 12:50:15,564 - __main__ - INFO - epoch = 22, train/season_acc2 = 99.96
+2021-11-16 12:50:17,212 - __main__ - INFO - epoch = 22, val/loss = 1.39005
+2021-11-16 12:50:17,212 - __main__ - INFO - epoch = 22, val/season_acc1 = 76.3
+2021-11-16 12:50:17,213 - __main__ - INFO - epoch = 22, val/season_acc2 = 93.62
+2021-11-16 12:50:17,213 - __main__ - INFO - ====================
+2021-11-16 12:50:47,387 - __main__ - INFO - epoch = 23, train/loss = 0.02396104482345675
+2021-11-16 12:50:47,387 - __main__ - INFO - epoch = 23, train/season_acc1 = 99.19
+2021-11-16 12:50:47,388 - __main__ - INFO - epoch = 23, train/season_acc2 = 99.97
+2021-11-16 12:50:49,023 - __main__ - INFO - epoch = 23, val/loss = 1.41084
+2021-11-16 12:50:49,023 - __main__ - INFO - epoch = 23, val/season_acc1 = 76.55
+2021-11-16 12:50:49,024 - __main__ - INFO - epoch = 23, val/season_acc2 = 93.76
+2021-11-16 12:50:49,024 - __main__ - INFO - ====================
+2021-11-16 12:51:19,170 - __main__ - INFO - epoch = 24, train/loss = 0.020687480457127094
+2021-11-16 12:51:19,171 - __main__ - INFO - epoch = 24, train/season_acc1 = 99.37
+2021-11-16 12:51:19,171 - __main__ - INFO - epoch = 24, train/season_acc2 = 99.96
+2021-11-16 12:51:20,806 - __main__ - INFO - epoch = 24, val/loss = 1.42426
+2021-11-16 12:51:20,807 - __main__ - INFO - epoch = 24, val/season_acc1 = 76.64
+2021-11-16 12:51:20,808 - __main__ - INFO - epoch = 24, val/season_acc2 = 93.73
+2021-11-16 12:51:20,808 - __main__ - INFO - ====================
+2021-11-16 12:51:50,965 - __main__ - INFO - epoch = 25, train/loss = 0.01946452212225842
+2021-11-16 12:51:50,965 - __main__ - INFO - epoch = 25, train/season_acc1 = 99.39
+2021-11-16 12:51:50,966 - __main__ - INFO - epoch = 25, train/season_acc2 = 99.98
+2021-11-16 12:51:52,591 - __main__ - INFO - epoch = 25, val/loss = 1.4301
+2021-11-16 12:51:52,592 - __main__ - INFO - epoch = 25, val/season_acc1 = 76.73
+2021-11-16 12:51:52,593 - __main__ - INFO - epoch = 25, val/season_acc2 = 93.67
+2021-11-16 12:51:52,593 - __main__ - INFO - ====================
+2021-11-16 12:52:22,747 - __main__ - INFO - epoch = 26, train/loss = 0.017329188259808642
+2021-11-16 12:52:22,747 - __main__ - INFO - epoch = 26, train/season_acc1 = 99.38
+2021-11-16 12:52:22,748 - __main__ - INFO - epoch = 26, train/season_acc2 = 99.97
+2021-11-16 12:52:24,364 - __main__ - INFO - epoch = 26, val/loss = 1.43527
+2021-11-16 12:52:24,364 - __main__ - INFO - epoch = 26, val/season_acc1 = 76.77
+2021-11-16 12:52:24,365 - __main__ - INFO - epoch = 26, val/season_acc2 = 93.71
+2021-11-16 12:52:24,365 - __main__ - INFO - ====================
+2021-11-16 12:52:54,542 - __main__ - INFO - epoch = 27, train/loss = 0.018801696598529816
+2021-11-16 12:52:54,543 - __main__ - INFO - epoch = 27, train/season_acc1 = 99.41
+2021-11-16 12:52:54,544 - __main__ - INFO - epoch = 27, train/season_acc2 = 99.97
+2021-11-16 12:52:56,184 - __main__ - INFO - epoch = 27, val/loss = 1.43951
+2021-11-16 12:52:56,185 - __main__ - INFO - epoch = 27, val/season_acc1 = 76.89
+2021-11-16 12:52:56,185 - __main__ - INFO - epoch = 27, val/season_acc2 = 93.64
+2021-11-16 12:52:56,186 - __main__ - INFO - ====================
+2021-11-16 12:53:26,433 - __main__ - INFO - epoch = 28, train/loss = 0.017337949039708627
+2021-11-16 12:53:26,434 - __main__ - INFO - epoch = 28, train/season_acc1 = 99.44
+2021-11-16 12:53:26,434 - __main__ - INFO - epoch = 28, train/season_acc2 = 99.99
+2021-11-16 12:53:28,119 - __main__ - INFO - epoch = 28, val/loss = 1.44472
+2021-11-16 12:53:28,120 - __main__ - INFO - epoch = 28, val/season_acc1 = 76.64
+2021-11-16 12:53:28,121 - __main__ - INFO - epoch = 28, val/season_acc2 = 93.67
+2021-11-16 12:53:28,121 - __main__ - INFO - ====================
+2021-11-16 12:53:58,288 - __main__ - INFO - epoch = 29, train/loss = 0.017482878076598832
+2021-11-16 12:53:58,289 - __main__ - INFO - epoch = 29, train/season_acc1 = 99.43
+2021-11-16 12:53:58,289 - __main__ - INFO - epoch = 29, train/season_acc2 = 99.98
+2021-11-16 12:53:59,920 - __main__ - INFO - epoch = 29, val/loss = 1.44545
+2021-11-16 12:53:59,920 - __main__ - INFO - epoch = 29, val/season_acc1 = 76.71
+2021-11-16 12:53:59,921 - __main__ - INFO - epoch = 29, val/season_acc2 = 93.67
+2021-11-16 12:53:59,921 - __main__ - INFO - ====================
+2021-11-16 12:54:30,116 - __main__ - INFO - epoch = 30, train/loss = 0.01532225119636247
+2021-11-16 12:54:30,117 - __main__ - INFO - epoch = 30, train/season_acc1 = 99.53
+2021-11-16 12:54:30,117 - __main__ - INFO - epoch = 30, train/season_acc2 = 99.97
+2021-11-16 12:54:31,773 - __main__ - INFO - epoch = 30, val/loss = 1.45639
+2021-11-16 12:54:31,774 - __main__ - INFO - epoch = 30, val/season_acc1 = 76.73
+2021-11-16 12:54:31,775 - __main__ - INFO - epoch = 30, val/season_acc2 = 93.69
+2021-11-16 12:54:31,775 - __main__ - INFO - ====================
+2021-11-16 12:55:02,526 - __main__ - INFO - epoch = 31, train/loss = 0.01554546625304379
+2021-11-16 12:55:02,527 - __main__ - INFO - epoch = 31, train/season_acc1 = 99.48
+2021-11-16 12:55:02,527 - __main__ - INFO - epoch = 31, train/season_acc2 = 99.98
+2021-11-16 12:55:04,191 - __main__ - INFO - epoch = 31, val/loss = 1.4689
+2021-11-16 12:55:04,192 - __main__ - INFO - epoch = 31, val/season_acc1 = 76.53
+2021-11-16 12:55:04,193 - __main__ - INFO - epoch = 31, val/season_acc2 = 93.67
+2021-11-16 12:55:04,193 - __main__ - INFO - ====================
+2021-11-16 12:55:34,600 - __main__ - INFO - epoch = 32, train/loss = 0.016305537453215373
+2021-11-16 12:55:34,601 - __main__ - INFO - epoch = 32, train/season_acc1 = 99.51
+2021-11-16 12:55:34,601 - __main__ - INFO - epoch = 32, train/season_acc2 = 99.97
+2021-11-16 12:55:36,220 - __main__ - INFO - epoch = 32, val/loss = 1.46942
+2021-11-16 12:55:36,220 - __main__ - INFO - epoch = 32, val/season_acc1 = 76.8
+2021-11-16 12:55:36,221 - __main__ - INFO - epoch = 32, val/season_acc2 = 93.64
+2021-11-16 12:55:36,221 - __main__ - INFO - ====================
+2021-11-16 12:56:07,748 - __main__ - INFO - epoch = 33, train/loss = 0.014549944843900832
+2021-11-16 12:56:07,749 - __main__ - INFO - epoch = 33, train/season_acc1 = 99.55
+2021-11-16 12:56:07,750 - __main__ - INFO - epoch = 33, train/season_acc2 = 99.99
+2021-11-16 12:56:09,379 - __main__ - INFO - epoch = 33, val/loss = 1.47665
+2021-11-16 12:56:09,379 - __main__ - INFO - epoch = 33, val/season_acc1 = 76.64
+2021-11-16 12:56:09,380 - __main__ - INFO - epoch = 33, val/season_acc2 = 93.55
+2021-11-16 12:56:09,380 - __main__ - INFO - ====================
+2021-11-16 12:56:46,366 - __main__ - INFO - epoch = 34, train/loss = 0.015012657919310425
+2021-11-16 12:56:46,367 - __main__ - INFO - epoch = 34, train/season_acc1 = 99.5
+2021-11-16 12:56:46,368 - __main__ - INFO - epoch = 34, train/season_acc2 = 99.98
+2021-11-16 12:56:48,027 - __main__ - INFO - epoch = 34, val/loss = 1.47773
+2021-11-16 12:56:48,027 - __main__ - INFO - epoch = 34, val/season_acc1 = 76.73
+2021-11-16 12:56:48,028 - __main__ - INFO - epoch = 34, val/season_acc2 = 93.58
+2021-11-16 12:56:48,028 - __main__ - INFO - ====================
+2021-11-16 12:57:18,237 - __main__ - INFO - epoch = 35, train/loss = 0.015302895090395683
+2021-11-16 12:57:18,238 - __main__ - INFO - epoch = 35, train/season_acc1 = 99.53
+2021-11-16 12:57:18,238 - __main__ - INFO - epoch = 35, train/season_acc2 = 99.97
+2021-11-16 12:57:19,876 - __main__ - INFO - epoch = 35, val/loss = 1.48127
+2021-11-16 12:57:19,877 - __main__ - INFO - epoch = 35, val/season_acc1 = 76.71
+2021-11-16 12:57:19,878 - __main__ - INFO - epoch = 35, val/season_acc2 = 93.58
+2021-11-16 12:57:19,878 - __main__ - INFO - ====================
+2021-11-16 12:57:50,062 - __main__ - INFO - epoch = 36, train/loss = 0.014288144320935794
+2021-11-16 12:57:50,063 - __main__ - INFO - epoch = 36, train/season_acc1 = 99.53
+2021-11-16 12:57:50,064 - __main__ - INFO - epoch = 36, train/season_acc2 = 99.98
+2021-11-16 12:57:51,709 - __main__ - INFO - epoch = 36, val/loss = 1.4798
+2021-11-16 12:57:51,711 - __main__ - INFO - epoch = 36, val/season_acc1 = 76.62
+2021-11-16 12:57:51,712 - __main__ - INFO - epoch = 36, val/season_acc2 = 93.58
+2021-11-16 12:57:51,712 - __main__ - INFO - ====================
+2021-11-16 12:58:21,968 - __main__ - INFO - epoch = 37, train/loss = 0.013831988651011335
+2021-11-16 12:58:21,968 - __main__ - INFO - epoch = 37, train/season_acc1 = 99.57
+2021-11-16 12:58:21,969 - __main__ - INFO - epoch = 37, train/season_acc2 = 99.99
+2021-11-16 12:58:23,612 - __main__ - INFO - epoch = 37, val/loss = 1.48286
+2021-11-16 12:58:23,612 - __main__ - INFO - epoch = 37, val/season_acc1 = 76.66
+2021-11-16 12:58:23,613 - __main__ - INFO - epoch = 37, val/season_acc2 = 93.53
+2021-11-16 12:58:23,613 - __main__ - INFO - ====================
+2021-11-16 12:58:53,807 - __main__ - INFO - epoch = 38, train/loss = 0.015419456789172009
+2021-11-16 12:58:53,808 - __main__ - INFO - epoch = 38, train/season_acc1 = 99.51
+2021-11-16 12:58:53,808 - __main__ - INFO - epoch = 38, train/season_acc2 = 99.97
+2021-11-16 12:58:55,447 - __main__ - INFO - epoch = 38, val/loss = 1.48297
+2021-11-16 12:58:55,448 - __main__ - INFO - epoch = 38, val/season_acc1 = 76.68
+2021-11-16 12:58:55,448 - __main__ - INFO - epoch = 38, val/season_acc2 = 93.58
+2021-11-16 12:58:55,448 - __main__ - INFO - ====================
+2021-11-16 12:59:25,639 - __main__ - INFO - epoch = 39, train/loss = 0.015060864192874808
+2021-11-16 12:59:25,639 - __main__ - INFO - epoch = 39, train/season_acc1 = 99.52
+2021-11-16 12:59:25,640 - __main__ - INFO - epoch = 39, train/season_acc2 = 99.98
+2021-11-16 12:59:27,288 - __main__ - INFO - epoch = 39, val/loss = 1.48289
+2021-11-16 12:59:27,289 - __main__ - INFO - epoch = 39, val/season_acc1 = 76.57
+2021-11-16 12:59:27,289 - __main__ - INFO - epoch = 39, val/season_acc2 = 93.51
+2021-11-16 12:59:27,290 - __main__ - INFO - ====================
+2021-11-16 12:59:59,419 - __main__ - INFO - epoch = 40, train/loss = 0.01411933152887382
+2021-11-16 12:59:59,419 - __main__ - INFO - epoch = 40, train/season_acc1 = 99.52
+2021-11-16 12:59:59,420 - __main__ - INFO - epoch = 40, train/season_acc2 = 99.98
+2021-11-16 13:00:01,469 - __main__ - INFO - epoch = 40, val/loss = 1.4832
+2021-11-16 13:00:01,470 - __main__ - INFO - epoch = 40, val/season_acc1 = 76.64
+2021-11-16 13:00:01,470 - __main__ - INFO - epoch = 40, val/season_acc2 = 93.58
+2021-11-16 13:00:01,470 - __main__ - INFO - ====================
+2021-11-16 13:00:34,270 - __main__ - INFO - epoch = 41, train/loss = 0.01428226678093013
+2021-11-16 13:00:34,271 - __main__ - INFO - epoch = 41, train/season_acc1 = 99.57
+2021-11-16 13:00:34,271 - __main__ - INFO - epoch = 41, train/season_acc2 = 99.98
+2021-11-16 13:00:35,906 - __main__ - INFO - epoch = 41, val/loss = 1.48597
+2021-11-16 13:00:35,907 - __main__ - INFO - epoch = 41, val/season_acc1 = 76.68
+2021-11-16 13:00:35,908 - __main__ - INFO - epoch = 41, val/season_acc2 = 93.55
+2021-11-16 13:00:35,908 - __main__ - INFO - ====================
+2021-11-16 13:01:06,155 - __main__ - INFO - epoch = 42, train/loss = 0.015105875061922952
+2021-11-16 13:01:06,155 - __main__ - INFO - epoch = 42, train/season_acc1 = 99.51
+2021-11-16 13:01:06,156 - __main__ - INFO - epoch = 42, train/season_acc2 = 99.98
+2021-11-16 13:01:07,779 - __main__ - INFO - epoch = 42, val/loss = 1.48583
+2021-11-16 13:01:07,780 - __main__ - INFO - epoch = 42, val/season_acc1 = 76.55
+2021-11-16 13:01:07,781 - __main__ - INFO - epoch = 42, val/season_acc2 = 93.58
+2021-11-16 13:01:07,781 - __main__ - INFO - ====================
+2021-11-16 13:01:37,954 - __main__ - INFO - epoch = 43, train/loss = 0.014839464749552701
+2021-11-16 13:01:37,955 - __main__ - INFO - epoch = 43, train/season_acc1 = 99.52
+2021-11-16 13:01:37,955 - __main__ - INFO - epoch = 43, train/season_acc2 = 99.98
+2021-11-16 13:01:39,609 - __main__ - INFO - epoch = 43, val/loss = 1.48918
+2021-11-16 13:01:39,610 - __main__ - INFO - epoch = 43, val/season_acc1 = 76.64
+2021-11-16 13:01:39,611 - __main__ - INFO - epoch = 43, val/season_acc2 = 93.58
+2021-11-16 13:01:39,611 - __main__ - INFO - ====================
+2021-11-16 13:02:09,819 - __main__ - INFO - epoch = 44, train/loss = 0.013607459792279099
+2021-11-16 13:02:09,819 - __main__ - INFO - epoch = 44, train/season_acc1 = 99.6
+2021-11-16 13:02:09,820 - __main__ - INFO - epoch = 44, train/season_acc2 = 99.99
+2021-11-16 13:02:11,471 - __main__ - INFO - epoch = 44, val/loss = 1.48871
+2021-11-16 13:02:11,471 - __main__ - INFO - epoch = 44, val/season_acc1 = 76.57
+2021-11-16 13:02:11,472 - __main__ - INFO - epoch = 44, val/season_acc2 = 93.53
+2021-11-16 13:02:11,472 - __main__ - INFO - ====================
+2021-11-16 13:02:41,770 - __main__ - INFO - epoch = 45, train/loss = 0.01423619277040033
+2021-11-16 13:02:41,771 - __main__ - INFO - epoch = 45, train/season_acc1 = 99.56
+2021-11-16 13:02:41,771 - __main__ - INFO - epoch = 45, train/season_acc2 = 99.99
+2021-11-16 13:02:43,449 - __main__ - INFO - epoch = 45, val/loss = 1.48591
+2021-11-16 13:02:43,450 - __main__ - INFO - epoch = 45, val/season_acc1 = 76.66
+2021-11-16 13:02:43,451 - __main__ - INFO - epoch = 45, val/season_acc2 = 93.55
+2021-11-16 13:02:43,451 - __main__ - INFO - ====================
+2021-11-16 13:03:13,680 - __main__ - INFO - epoch = 46, train/loss = 0.014159364123387556
+2021-11-16 13:03:13,681 - __main__ - INFO - epoch = 46, train/season_acc1 = 99.52
+2021-11-16 13:03:13,682 - __main__ - INFO - epoch = 46, train/season_acc2 = 99.99
+2021-11-16 13:03:15,334 - __main__ - INFO - epoch = 46, val/loss = 1.4886
+2021-11-16 13:03:15,335 - __main__ - INFO - epoch = 46, val/season_acc1 = 76.55
+2021-11-16 13:03:15,336 - __main__ - INFO - epoch = 46, val/season_acc2 = 93.55
+2021-11-16 13:03:15,336 - __main__ - INFO - ====================
+2021-11-16 13:03:45,542 - __main__ - INFO - epoch = 47, train/loss = 0.013797447171160266
+2021-11-16 13:03:45,543 - __main__ - INFO - epoch = 47, train/season_acc1 = 99.58
+2021-11-16 13:03:45,544 - __main__ - INFO - epoch = 47, train/season_acc2 = 99.98
+2021-11-16 13:03:47,208 - __main__ - INFO - epoch = 47, val/loss = 1.48581
+2021-11-16 13:03:47,208 - __main__ - INFO - epoch = 47, val/season_acc1 = 76.71
+2021-11-16 13:03:47,209 - __main__ - INFO - epoch = 47, val/season_acc2 = 93.55
+2021-11-16 13:03:47,209 - __main__ - INFO - ====================
+2021-11-16 13:04:17,390 - __main__ - INFO - epoch = 48, train/loss = 0.013788208635033746
+2021-11-16 13:04:17,391 - __main__ - INFO - epoch = 48, train/season_acc1 = 99.56
+2021-11-16 13:04:17,391 - __main__ - INFO - epoch = 48, train/season_acc2 = 99.98
+2021-11-16 13:04:19,016 - __main__ - INFO - epoch = 48, val/loss = 1.48676
+2021-11-16 13:04:19,017 - __main__ - INFO - epoch = 48, val/season_acc1 = 76.57
+2021-11-16 13:04:19,018 - __main__ - INFO - epoch = 48, val/season_acc2 = 93.49
+2021-11-16 13:04:19,018 - __main__ - INFO - ====================
+2021-11-16 13:04:49,241 - __main__ - INFO - epoch = 49, train/loss = 0.014713060037281952
+2021-11-16 13:04:49,241 - __main__ - INFO - epoch = 49, train/season_acc1 = 99.55
+2021-11-16 13:04:49,242 - __main__ - INFO - epoch = 49, train/season_acc2 = 99.98
+2021-11-16 13:04:50,859 - __main__ - INFO - epoch = 49, val/loss = 1.48736
+2021-11-16 13:04:50,860 - __main__ - INFO - epoch = 49, val/season_acc1 = 76.62
+2021-11-16 13:04:50,861 - __main__ - INFO - epoch = 49, val/season_acc2 = 93.51
+2021-11-16 13:04:50,861 - __main__ - INFO - ====================

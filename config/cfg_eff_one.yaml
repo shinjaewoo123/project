@@ -1,0 +1,17 @@
+random_seed: 23
+save_dir: ./runs/model_efficientnetv2_usage/
+batch_size: 1024 # 128 # 512 # 16
+config: config.yaml
+data_dir: ./dataset/
+modelname: tf_efficientnetv2_s_in21k
+feature_dim: 1280
+anno_filename: styles_by_article.csv
+classes_filename: classes.pkl
+columns: 
+- usage
+resize_res: 100 
+crop_res: 80
+num_workers: 4
+lr: 0.001
+num_epoch: 50
+device: cuda

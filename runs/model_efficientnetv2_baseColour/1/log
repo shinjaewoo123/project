@@ -1,0 +1,353 @@
+2021-11-16 11:55:16,188 - __main__ - INFO - Main module is initialized.
+2021-11-16 11:55:16,252 - __main__ - INFO - number of train data 38
+2021-11-16 11:55:16,252 - __main__ - INFO - number of val data 5
+2021-11-16 11:55:51,448 - __main__ - INFO - epoch = 0, train/loss = 1.4545361368279708
+2021-11-16 11:55:51,448 - __main__ - INFO - epoch = 0, train/baseColour_acc1 = 59.66
+2021-11-16 11:55:51,448 - __main__ - INFO - epoch = 0, train/baseColour_acc2 = 74.54
+2021-11-16 11:55:53,628 - __main__ - INFO - epoch = 0, val/loss = 1.15332
+2021-11-16 11:55:53,629 - __main__ - INFO - epoch = 0, val/baseColour_acc1 = 65.99
+2021-11-16 11:55:53,630 - __main__ - INFO - epoch = 0, val/baseColour_acc2 = 80.55
+2021-11-16 11:55:53,630 - __main__ - INFO - ====================
+2021-11-16 11:56:23,466 - __main__ - INFO - epoch = 1, train/loss = 1.050063026578803
+2021-11-16 11:56:23,467 - __main__ - INFO - epoch = 1, train/baseColour_acc1 = 67.8
+2021-11-16 11:56:23,467 - __main__ - INFO - epoch = 1, train/baseColour_acc2 = 82.55
+2021-11-16 11:56:25,098 - __main__ - INFO - epoch = 1, val/loss = 1.12783
+2021-11-16 11:56:25,098 - __main__ - INFO - epoch = 1, val/baseColour_acc1 = 66.46
+2021-11-16 11:56:25,099 - __main__ - INFO - epoch = 1, val/baseColour_acc2 = 81.22
+2021-11-16 11:56:25,099 - __main__ - INFO - ====================
+2021-11-16 11:56:55,405 - __main__ - INFO - epoch = 2, train/loss = 0.9012069968800795
+2021-11-16 11:56:55,405 - __main__ - INFO - epoch = 2, train/baseColour_acc1 = 71.75
+2021-11-16 11:56:55,406 - __main__ - INFO - epoch = 2, train/baseColour_acc2 = 85.57
+2021-11-16 11:56:57,039 - __main__ - INFO - epoch = 2, val/loss = 1.17786
+2021-11-16 11:56:57,040 - __main__ - INFO - epoch = 2, val/baseColour_acc1 = 65.14
+2021-11-16 11:56:57,040 - __main__ - INFO - epoch = 2, val/baseColour_acc2 = 80.32
+2021-11-16 11:56:57,040 - __main__ - INFO - ====================
+2021-11-16 11:57:26,982 - __main__ - INFO - epoch = 3, train/loss = 0.8042866085705004
+2021-11-16 11:57:26,983 - __main__ - INFO - epoch = 3, train/baseColour_acc1 = 74.31
+2021-11-16 11:57:26,983 - __main__ - INFO - epoch = 3, train/baseColour_acc2 = 87.69
+2021-11-16 11:57:28,624 - __main__ - INFO - epoch = 3, val/loss = 1.21517
+2021-11-16 11:57:28,625 - __main__ - INFO - epoch = 3, val/baseColour_acc1 = 65.88
+2021-11-16 11:57:28,625 - __main__ - INFO - epoch = 3, val/baseColour_acc2 = 79.45
+2021-11-16 11:57:28,625 - __main__ - INFO - ====================
+2021-11-16 11:57:58,604 - __main__ - INFO - epoch = 4, train/loss = 0.7248432636260986
+2021-11-16 11:57:58,605 - __main__ - INFO - epoch = 4, train/baseColour_acc1 = 76.62
+2021-11-16 11:57:58,605 - __main__ - INFO - epoch = 4, train/baseColour_acc2 = 89.39
+2021-11-16 11:58:00,241 - __main__ - INFO - epoch = 4, val/loss = 1.36996
+2021-11-16 11:58:00,242 - __main__ - INFO - epoch = 4, val/baseColour_acc1 = 62.29
+2021-11-16 11:58:00,243 - __main__ - INFO - epoch = 4, val/baseColour_acc2 = 78.5
+2021-11-16 11:58:00,243 - __main__ - INFO - ====================
+2021-11-16 11:58:30,266 - __main__ - INFO - epoch = 5, train/loss = 0.6457770717771429
+2021-11-16 11:58:30,266 - __main__ - INFO - epoch = 5, train/baseColour_acc1 = 78.58
+2021-11-16 11:58:30,267 - __main__ - INFO - epoch = 5, train/baseColour_acc2 = 91.1
+2021-11-16 11:58:31,917 - __main__ - INFO - epoch = 5, val/loss = 1.36453
+2021-11-16 11:58:31,918 - __main__ - INFO - epoch = 5, val/baseColour_acc1 = 63.57
+2021-11-16 11:58:31,919 - __main__ - INFO - epoch = 5, val/baseColour_acc2 = 78.75
+2021-11-16 11:58:31,919 - __main__ - INFO - ====================
+2021-11-16 11:59:02,039 - __main__ - INFO - epoch = 6, train/loss = 0.5771568762628656
+2021-11-16 11:59:02,040 - __main__ - INFO - epoch = 6, train/baseColour_acc1 = 80.99
+2021-11-16 11:59:02,040 - __main__ - INFO - epoch = 6, train/baseColour_acc2 = 92.41
+2021-11-16 11:59:03,745 - __main__ - INFO - epoch = 6, val/loss = 1.45469
+2021-11-16 11:59:03,746 - __main__ - INFO - epoch = 6, val/baseColour_acc1 = 62.31
+2021-11-16 11:59:03,747 - __main__ - INFO - epoch = 6, val/baseColour_acc2 = 77.92
+2021-11-16 11:59:03,747 - __main__ - INFO - ====================
+2021-11-16 11:59:33,841 - __main__ - INFO - epoch = 7, train/loss = 0.5148183028948935
+2021-11-16 11:59:33,842 - __main__ - INFO - epoch = 7, train/baseColour_acc1 = 82.86
+2021-11-16 11:59:33,842 - __main__ - INFO - epoch = 7, train/baseColour_acc2 = 93.67
+2021-11-16 11:59:35,506 - __main__ - INFO - epoch = 7, val/loss = 1.6548
+2021-11-16 11:59:35,507 - __main__ - INFO - epoch = 7, val/baseColour_acc1 = 60.31
+2021-11-16 11:59:35,508 - __main__ - INFO - epoch = 7, val/baseColour_acc2 = 76.33
+2021-11-16 11:59:35,508 - __main__ - INFO - ====================
+2021-11-16 12:00:05,595 - __main__ - INFO - epoch = 8, train/loss = 0.45346065649860784
+2021-11-16 12:00:05,596 - __main__ - INFO - epoch = 8, train/baseColour_acc1 = 84.81
+2021-11-16 12:00:05,596 - __main__ - INFO - epoch = 8, train/baseColour_acc2 = 94.74
+2021-11-16 12:00:07,234 - __main__ - INFO - epoch = 8, val/loss = 1.59907
+2021-11-16 12:00:07,235 - __main__ - INFO - epoch = 8, val/baseColour_acc1 = 62.87
+2021-11-16 12:00:07,235 - __main__ - INFO - epoch = 8, val/baseColour_acc2 = 78.66
+2021-11-16 12:00:07,236 - __main__ - INFO - ====================
+2021-11-16 12:00:37,334 - __main__ - INFO - epoch = 9, train/loss = 0.4135770703616895
+2021-11-16 12:00:37,335 - __main__ - INFO - epoch = 9, train/baseColour_acc1 = 86.07
+2021-11-16 12:00:37,335 - __main__ - INFO - epoch = 9, train/baseColour_acc2 = 95.4
+2021-11-16 12:00:38,983 - __main__ - INFO - epoch = 9, val/loss = 1.62982
+2021-11-16 12:00:38,984 - __main__ - INFO - epoch = 9, val/baseColour_acc1 = 63.54
+2021-11-16 12:00:38,985 - __main__ - INFO - epoch = 9, val/baseColour_acc2 = 77.72
+2021-11-16 12:00:38,985 - __main__ - INFO - ====================
+2021-11-16 12:01:09,211 - __main__ - INFO - epoch = 10, train/loss = 0.3774781972169876
+2021-11-16 12:01:09,211 - __main__ - INFO - epoch = 10, train/baseColour_acc1 = 87.48
+2021-11-16 12:01:09,211 - __main__ - INFO - epoch = 10, train/baseColour_acc2 = 96.17
+2021-11-16 12:01:10,856 - __main__ - INFO - epoch = 10, val/loss = 1.71843
+2021-11-16 12:01:10,857 - __main__ - INFO - epoch = 10, val/baseColour_acc1 = 63.23
+2021-11-16 12:01:10,857 - __main__ - INFO - epoch = 10, val/baseColour_acc2 = 77.43
+2021-11-16 12:01:10,857 - __main__ - INFO - ====================
+2021-11-16 12:01:41,034 - __main__ - INFO - epoch = 11, train/loss = 0.3364490105917579
+2021-11-16 12:01:41,035 - __main__ - INFO - epoch = 11, train/baseColour_acc1 = 88.84
+2021-11-16 12:01:41,035 - __main__ - INFO - epoch = 11, train/baseColour_acc2 = 96.66
+2021-11-16 12:01:42,674 - __main__ - INFO - epoch = 11, val/loss = 1.7129
+2021-11-16 12:01:42,675 - __main__ - INFO - epoch = 11, val/baseColour_acc1 = 61.9
+2021-11-16 12:01:42,676 - __main__ - INFO - epoch = 11, val/baseColour_acc2 = 76.8
+2021-11-16 12:01:42,676 - __main__ - INFO - ====================
+2021-11-16 12:02:12,851 - __main__ - INFO - epoch = 12, train/loss = 0.29653504177143697
+2021-11-16 12:02:12,852 - __main__ - INFO - epoch = 12, train/baseColour_acc1 = 90.09
+2021-11-16 12:02:12,852 - __main__ - INFO - epoch = 12, train/baseColour_acc2 = 97.28
+2021-11-16 12:02:14,500 - __main__ - INFO - epoch = 12, val/loss = 1.91053
+2021-11-16 12:02:14,501 - __main__ - INFO - epoch = 12, val/baseColour_acc1 = 62.06
+2021-11-16 12:02:14,501 - __main__ - INFO - epoch = 12, val/baseColour_acc2 = 76.66
+2021-11-16 12:02:14,501 - __main__ - INFO - ====================
+2021-11-16 12:02:44,747 - __main__ - INFO - epoch = 13, train/loss = 0.201801401023802
+2021-11-16 12:02:44,748 - __main__ - INFO - epoch = 13, train/baseColour_acc1 = 93.28
+2021-11-16 12:02:44,748 - __main__ - INFO - epoch = 13, train/baseColour_acc2 = 98.36
+2021-11-16 12:02:46,395 - __main__ - INFO - epoch = 13, val/loss = 1.63411
+2021-11-16 12:02:46,395 - __main__ - INFO - epoch = 13, val/baseColour_acc1 = 65.09
+2021-11-16 12:02:46,396 - __main__ - INFO - epoch = 13, val/baseColour_acc2 = 79.83
+2021-11-16 12:02:46,396 - __main__ - INFO - ====================
+2021-11-16 12:03:16,572 - __main__ - INFO - epoch = 14, train/loss = 0.11760263223397105
+2021-11-16 12:03:16,573 - __main__ - INFO - epoch = 14, train/baseColour_acc1 = 96.26
+2021-11-16 12:03:16,573 - __main__ - INFO - epoch = 14, train/baseColour_acc2 = 99.2
+2021-11-16 12:03:18,240 - __main__ - INFO - epoch = 14, val/loss = 1.6772
+2021-11-16 12:03:18,241 - __main__ - INFO - epoch = 14, val/baseColour_acc1 = 65.36
+2021-11-16 12:03:18,242 - __main__ - INFO - epoch = 14, val/baseColour_acc2 = 79.92
+2021-11-16 12:03:18,242 - __main__ - INFO - ====================
+2021-11-16 12:03:48,427 - __main__ - INFO - epoch = 15, train/loss = 0.09527784546739176
+2021-11-16 12:03:48,427 - __main__ - INFO - epoch = 15, train/baseColour_acc1 = 96.99
+2021-11-16 12:03:48,428 - __main__ - INFO - epoch = 15, train/baseColour_acc2 = 99.4
+2021-11-16 12:03:50,075 - __main__ - INFO - epoch = 15, val/loss = 1.72721
+2021-11-16 12:03:50,076 - __main__ - INFO - epoch = 15, val/baseColour_acc1 = 65.39
+2021-11-16 12:03:50,076 - __main__ - INFO - epoch = 15, val/baseColour_acc2 = 80.17
+2021-11-16 12:03:50,076 - __main__ - INFO - ====================
+2021-11-16 12:04:20,261 - __main__ - INFO - epoch = 16, train/loss = 0.07945486658105724
+2021-11-16 12:04:20,262 - __main__ - INFO - epoch = 16, train/baseColour_acc1 = 97.43
+2021-11-16 12:04:20,263 - __main__ - INFO - epoch = 16, train/baseColour_acc2 = 99.57
+2021-11-16 12:04:21,928 - __main__ - INFO - epoch = 16, val/loss = 1.78824
+2021-11-16 12:04:21,929 - __main__ - INFO - epoch = 16, val/baseColour_acc1 = 65.25
+2021-11-16 12:04:21,929 - __main__ - INFO - epoch = 16, val/baseColour_acc2 = 80.03
+2021-11-16 12:04:21,930 - __main__ - INFO - ====================
+2021-11-16 12:04:52,119 - __main__ - INFO - epoch = 17, train/loss = 0.06567581223421975
+2021-11-16 12:04:52,120 - __main__ - INFO - epoch = 17, train/baseColour_acc1 = 97.92
+2021-11-16 12:04:52,121 - __main__ - INFO - epoch = 17, train/baseColour_acc2 = 99.64
+2021-11-16 12:04:53,787 - __main__ - INFO - epoch = 17, val/loss = 1.83563
+2021-11-16 12:04:53,788 - __main__ - INFO - epoch = 17, val/baseColour_acc1 = 65.48
+2021-11-16 12:04:53,789 - __main__ - INFO - epoch = 17, val/baseColour_acc2 = 79.81
+2021-11-16 12:04:53,789 - __main__ - INFO - ====================
+2021-11-16 12:05:23,991 - __main__ - INFO - epoch = 18, train/loss = 0.06035729566294896
+2021-11-16 12:05:23,992 - __main__ - INFO - epoch = 18, train/baseColour_acc1 = 98.1
+2021-11-16 12:05:23,992 - __main__ - INFO - epoch = 18, train/baseColour_acc2 = 99.66
+2021-11-16 12:05:25,646 - __main__ - INFO - epoch = 18, val/loss = 1.88504
+2021-11-16 12:05:25,647 - __main__ - INFO - epoch = 18, val/baseColour_acc1 = 65.14
+2021-11-16 12:05:25,648 - __main__ - INFO - epoch = 18, val/baseColour_acc2 = 79.83
+2021-11-16 12:05:25,648 - __main__ - INFO - ====================
+2021-11-16 12:05:55,816 - __main__ - INFO - epoch = 19, train/loss = 0.05575881702335257
+2021-11-16 12:05:55,816 - __main__ - INFO - epoch = 19, train/baseColour_acc1 = 98.32
+2021-11-16 12:05:55,817 - __main__ - INFO - epoch = 19, train/baseColour_acc2 = 99.68
+2021-11-16 12:05:57,471 - __main__ - INFO - epoch = 19, val/loss = 1.92931
+2021-11-16 12:05:57,472 - __main__ - INFO - epoch = 19, val/baseColour_acc1 = 64.78
+2021-11-16 12:05:57,473 - __main__ - INFO - epoch = 19, val/baseColour_acc2 = 79.67
+2021-11-16 12:05:57,473 - __main__ - INFO - ====================
+2021-11-16 12:06:27,653 - __main__ - INFO - epoch = 20, train/loss = 0.049289398581573836
+2021-11-16 12:06:27,654 - __main__ - INFO - epoch = 20, train/baseColour_acc1 = 98.49
+2021-11-16 12:06:27,654 - __main__ - INFO - epoch = 20, train/baseColour_acc2 = 99.75
+2021-11-16 12:06:29,303 - __main__ - INFO - epoch = 20, val/loss = 1.97195
+2021-11-16 12:06:29,304 - __main__ - INFO - epoch = 20, val/baseColour_acc1 = 64.78
+2021-11-16 12:06:29,304 - __main__ - INFO - epoch = 20, val/baseColour_acc2 = 79.49
+2021-11-16 12:06:29,305 - __main__ - INFO - ====================
+2021-11-16 12:06:59,570 - __main__ - INFO - epoch = 21, train/loss = 0.04441609164994014
+2021-11-16 12:06:59,570 - __main__ - INFO - epoch = 21, train/baseColour_acc1 = 98.57
+2021-11-16 12:06:59,571 - __main__ - INFO - epoch = 21, train/baseColour_acc2 = 99.81
+2021-11-16 12:07:01,223 - __main__ - INFO - epoch = 21, val/loss = 2.00589
+2021-11-16 12:07:01,223 - __main__ - INFO - epoch = 21, val/baseColour_acc1 = 64.89
+2021-11-16 12:07:01,224 - __main__ - INFO - epoch = 21, val/baseColour_acc2 = 79.47
+2021-11-16 12:07:01,224 - __main__ - INFO - ====================
+2021-11-16 12:07:31,430 - __main__ - INFO - epoch = 22, train/loss = 0.03918846593679566
+2021-11-16 12:07:31,430 - __main__ - INFO - epoch = 22, train/baseColour_acc1 = 98.77
+2021-11-16 12:07:31,431 - __main__ - INFO - epoch = 22, train/baseColour_acc2 = 99.81
+2021-11-16 12:07:33,090 - __main__ - INFO - epoch = 22, val/loss = 2.05342
+2021-11-16 12:07:33,091 - __main__ - INFO - epoch = 22, val/baseColour_acc1 = 65.23
+2021-11-16 12:07:33,092 - __main__ - INFO - epoch = 22, val/baseColour_acc2 = 79.29
+2021-11-16 12:07:33,092 - __main__ - INFO - ====================
+2021-11-16 12:08:03,282 - __main__ - INFO - epoch = 23, train/loss = 0.03679389065425647
+2021-11-16 12:08:03,283 - __main__ - INFO - epoch = 23, train/baseColour_acc1 = 98.89
+2021-11-16 12:08:03,284 - __main__ - INFO - epoch = 23, train/baseColour_acc2 = 99.83
+2021-11-16 12:08:04,945 - __main__ - INFO - epoch = 23, val/loss = 2.0838
+2021-11-16 12:08:04,946 - __main__ - INFO - epoch = 23, val/baseColour_acc1 = 65.0
+2021-11-16 12:08:04,947 - __main__ - INFO - epoch = 23, val/baseColour_acc2 = 79.56
+2021-11-16 12:08:04,947 - __main__ - INFO - ====================
+2021-11-16 12:08:35,160 - __main__ - INFO - epoch = 24, train/loss = 0.03221401077156004
+2021-11-16 12:08:35,161 - __main__ - INFO - epoch = 24, train/baseColour_acc1 = 99.06
+2021-11-16 12:08:35,161 - __main__ - INFO - epoch = 24, train/baseColour_acc2 = 99.85
+2021-11-16 12:08:36,824 - __main__ - INFO - epoch = 24, val/loss = 2.09419
+2021-11-16 12:08:36,825 - __main__ - INFO - epoch = 24, val/baseColour_acc1 = 65.0
+2021-11-16 12:08:36,826 - __main__ - INFO - epoch = 24, val/baseColour_acc2 = 79.47
+2021-11-16 12:08:36,827 - __main__ - INFO - ====================
+2021-11-16 12:09:07,031 - __main__ - INFO - epoch = 25, train/loss = 0.03267712028403031
+2021-11-16 12:09:07,031 - __main__ - INFO - epoch = 25, train/baseColour_acc1 = 99.03
+2021-11-16 12:09:07,031 - __main__ - INFO - epoch = 25, train/baseColour_acc2 = 99.86
+2021-11-16 12:09:08,701 - __main__ - INFO - epoch = 25, val/loss = 2.0964
+2021-11-16 12:09:08,702 - __main__ - INFO - epoch = 25, val/baseColour_acc1 = 64.98
+2021-11-16 12:09:08,703 - __main__ - INFO - epoch = 25, val/baseColour_acc2 = 79.58
+2021-11-16 12:09:08,703 - __main__ - INFO - ====================
+2021-11-16 12:09:38,935 - __main__ - INFO - epoch = 26, train/loss = 0.03175385688480578
+2021-11-16 12:09:38,936 - __main__ - INFO - epoch = 26, train/baseColour_acc1 = 99.09
+2021-11-16 12:09:38,936 - __main__ - INFO - epoch = 26, train/baseColour_acc2 = 99.86
+2021-11-16 12:09:40,601 - __main__ - INFO - epoch = 26, val/loss = 2.09825
+2021-11-16 12:09:40,602 - __main__ - INFO - epoch = 26, val/baseColour_acc1 = 65.05
+2021-11-16 12:09:40,602 - __main__ - INFO - epoch = 26, val/baseColour_acc2 = 79.54
+2021-11-16 12:09:40,602 - __main__ - INFO - ====================
+2021-11-16 12:10:10,761 - __main__ - INFO - epoch = 27, train/loss = 0.032894336177330265
+2021-11-16 12:10:10,761 - __main__ - INFO - epoch = 27, train/baseColour_acc1 = 98.98
+2021-11-16 12:10:10,762 - __main__ - INFO - epoch = 27, train/baseColour_acc2 = 99.86
+2021-11-16 12:10:12,411 - __main__ - INFO - epoch = 27, val/loss = 2.10479
+2021-11-16 12:10:12,411 - __main__ - INFO - epoch = 27, val/baseColour_acc1 = 65.12
+2021-11-16 12:10:12,412 - __main__ - INFO - epoch = 27, val/baseColour_acc2 = 79.58
+2021-11-16 12:10:12,412 - __main__ - INFO - ====================
+2021-11-16 12:10:42,592 - __main__ - INFO - epoch = 28, train/loss = 0.03218491733270256
+2021-11-16 12:10:42,593 - __main__ - INFO - epoch = 28, train/baseColour_acc1 = 99.04
+2021-11-16 12:10:42,594 - __main__ - INFO - epoch = 28, train/baseColour_acc2 = 99.87
+2021-11-16 12:10:44,247 - __main__ - INFO - epoch = 28, val/loss = 2.1105
+2021-11-16 12:10:44,248 - __main__ - INFO - epoch = 28, val/baseColour_acc1 = 65.05
+2021-11-16 12:10:44,248 - __main__ - INFO - epoch = 28, val/baseColour_acc2 = 79.58
+2021-11-16 12:10:44,248 - __main__ - INFO - ====================
+2021-11-16 12:11:14,420 - __main__ - INFO - epoch = 29, train/loss = 0.03088931695215012
+2021-11-16 12:11:14,421 - __main__ - INFO - epoch = 29, train/baseColour_acc1 = 99.09
+2021-11-16 12:11:14,421 - __main__ - INFO - epoch = 29, train/baseColour_acc2 = 99.87
+2021-11-16 12:11:16,081 - __main__ - INFO - epoch = 29, val/loss = 2.11462
+2021-11-16 12:11:16,082 - __main__ - INFO - epoch = 29, val/baseColour_acc1 = 65.03
+2021-11-16 12:11:16,082 - __main__ - INFO - epoch = 29, val/baseColour_acc2 = 79.63
+2021-11-16 12:11:16,083 - __main__ - INFO - ====================
+2021-11-16 12:11:46,288 - __main__ - INFO - epoch = 30, train/loss = 0.03104097646121916
+2021-11-16 12:11:46,289 - __main__ - INFO - epoch = 30, train/baseColour_acc1 = 99.14
+2021-11-16 12:11:46,290 - __main__ - INFO - epoch = 30, train/baseColour_acc2 = 99.87
+2021-11-16 12:11:47,939 - __main__ - INFO - epoch = 30, val/loss = 2.12089
+2021-11-16 12:11:47,940 - __main__ - INFO - epoch = 30, val/baseColour_acc1 = 64.98
+2021-11-16 12:11:47,941 - __main__ - INFO - epoch = 30, val/baseColour_acc2 = 79.45
+2021-11-16 12:11:47,941 - __main__ - INFO - ====================
+2021-11-16 12:12:18,127 - __main__ - INFO - epoch = 31, train/loss = 0.03078483574484524
+2021-11-16 12:12:18,127 - __main__ - INFO - epoch = 31, train/baseColour_acc1 = 99.12
+2021-11-16 12:12:18,128 - __main__ - INFO - epoch = 31, train/baseColour_acc2 = 99.85
+2021-11-16 12:12:19,791 - __main__ - INFO - epoch = 31, val/loss = 2.12622
+2021-11-16 12:12:19,792 - __main__ - INFO - epoch = 31, val/baseColour_acc1 = 64.91
+2021-11-16 12:12:19,793 - __main__ - INFO - epoch = 31, val/baseColour_acc2 = 79.6
+2021-11-16 12:12:19,793 - __main__ - INFO - ====================
+2021-11-16 12:12:49,965 - __main__ - INFO - epoch = 32, train/loss = 0.028553679242338006
+2021-11-16 12:12:49,966 - __main__ - INFO - epoch = 32, train/baseColour_acc1 = 99.18
+2021-11-16 12:12:49,967 - __main__ - INFO - epoch = 32, train/baseColour_acc2 = 99.89
+2021-11-16 12:12:51,623 - __main__ - INFO - epoch = 32, val/loss = 2.12693
+2021-11-16 12:12:51,624 - __main__ - INFO - epoch = 32, val/baseColour_acc1 = 64.89
+2021-11-16 12:12:51,625 - __main__ - INFO - epoch = 32, val/baseColour_acc2 = 79.65
+2021-11-16 12:12:51,625 - __main__ - INFO - ====================
+2021-11-16 12:13:21,834 - __main__ - INFO - epoch = 33, train/loss = 0.02962515316903591
+2021-11-16 12:13:21,835 - __main__ - INFO - epoch = 33, train/baseColour_acc1 = 99.12
+2021-11-16 12:13:21,836 - __main__ - INFO - epoch = 33, train/baseColour_acc2 = 99.88
+2021-11-16 12:13:23,479 - __main__ - INFO - epoch = 33, val/loss = 2.12573
+2021-11-16 12:13:23,480 - __main__ - INFO - epoch = 33, val/baseColour_acc1 = 64.89
+2021-11-16 12:13:23,481 - __main__ - INFO - epoch = 33, val/baseColour_acc2 = 79.6
+2021-11-16 12:13:23,481 - __main__ - INFO - ====================
+2021-11-16 12:13:53,630 - __main__ - INFO - epoch = 34, train/loss = 0.029266604761544027
+2021-11-16 12:13:53,631 - __main__ - INFO - epoch = 34, train/baseColour_acc1 = 99.1
+2021-11-16 12:13:53,631 - __main__ - INFO - epoch = 34, train/baseColour_acc2 = 99.86
+2021-11-16 12:13:55,294 - __main__ - INFO - epoch = 34, val/loss = 2.13113
+2021-11-16 12:13:55,295 - __main__ - INFO - epoch = 34, val/baseColour_acc1 = 64.91
+2021-11-16 12:13:55,296 - __main__ - INFO - epoch = 34, val/baseColour_acc2 = 79.47
+2021-11-16 12:13:55,297 - __main__ - INFO - ====================
+2021-11-16 12:14:25,491 - __main__ - INFO - epoch = 35, train/loss = 0.027857712322944088
+2021-11-16 12:14:25,492 - __main__ - INFO - epoch = 35, train/baseColour_acc1 = 99.16
+2021-11-16 12:14:25,492 - __main__ - INFO - epoch = 35, train/baseColour_acc2 = 99.87
+2021-11-16 12:14:27,138 - __main__ - INFO - epoch = 35, val/loss = 2.13054
+2021-11-16 12:14:27,139 - __main__ - INFO - epoch = 35, val/baseColour_acc1 = 64.85
+2021-11-16 12:14:27,139 - __main__ - INFO - epoch = 35, val/baseColour_acc2 = 79.49
+2021-11-16 12:14:27,140 - __main__ - INFO - ====================
+2021-11-16 12:14:57,322 - __main__ - INFO - epoch = 36, train/loss = 0.02622347673107135
+2021-11-16 12:14:57,323 - __main__ - INFO - epoch = 36, train/baseColour_acc1 = 99.28
+2021-11-16 12:14:57,323 - __main__ - INFO - epoch = 36, train/baseColour_acc2 = 99.9
+2021-11-16 12:14:58,977 - __main__ - INFO - epoch = 36, val/loss = 2.13062
+2021-11-16 12:14:58,978 - __main__ - INFO - epoch = 36, val/baseColour_acc1 = 64.87
+2021-11-16 12:14:58,979 - __main__ - INFO - epoch = 36, val/baseColour_acc2 = 79.49
+2021-11-16 12:14:58,979 - __main__ - INFO - ====================
+2021-11-16 12:15:29,163 - __main__ - INFO - epoch = 37, train/loss = 0.028595664440409133
+2021-11-16 12:15:29,164 - __main__ - INFO - epoch = 37, train/baseColour_acc1 = 99.18
+2021-11-16 12:15:29,164 - __main__ - INFO - epoch = 37, train/baseColour_acc2 = 99.85
+2021-11-16 12:15:30,835 - __main__ - INFO - epoch = 37, val/loss = 2.13369
+2021-11-16 12:15:30,835 - __main__ - INFO - epoch = 37, val/baseColour_acc1 = 64.91
+2021-11-16 12:15:30,836 - __main__ - INFO - epoch = 37, val/baseColour_acc2 = 79.45
+2021-11-16 12:15:30,836 - __main__ - INFO - ====================
+2021-11-16 12:16:01,056 - __main__ - INFO - epoch = 38, train/loss = 0.027822721921103567
+2021-11-16 12:16:01,056 - __main__ - INFO - epoch = 38, train/baseColour_acc1 = 99.22
+2021-11-16 12:16:01,057 - __main__ - INFO - epoch = 38, train/baseColour_acc2 = 99.9
+2021-11-16 12:16:02,719 - __main__ - INFO - epoch = 38, val/loss = 2.13025
+2021-11-16 12:16:02,720 - __main__ - INFO - epoch = 38, val/baseColour_acc1 = 64.87
+2021-11-16 12:16:02,720 - __main__ - INFO - epoch = 38, val/baseColour_acc2 = 79.63
+2021-11-16 12:16:02,721 - __main__ - INFO - ====================
+2021-11-16 12:16:32,942 - __main__ - INFO - epoch = 39, train/loss = 0.02865626236521884
+2021-11-16 12:16:32,943 - __main__ - INFO - epoch = 39, train/baseColour_acc1 = 99.17
+2021-11-16 12:16:32,943 - __main__ - INFO - epoch = 39, train/baseColour_acc2 = 99.88
+2021-11-16 12:16:34,603 - __main__ - INFO - epoch = 39, val/loss = 2.13014
+2021-11-16 12:16:34,605 - __main__ - INFO - epoch = 39, val/baseColour_acc1 = 64.89
+2021-11-16 12:16:34,605 - __main__ - INFO - epoch = 39, val/baseColour_acc2 = 79.47
+2021-11-16 12:16:34,605 - __main__ - INFO - ====================
+2021-11-16 12:17:04,791 - __main__ - INFO - epoch = 40, train/loss = 0.028505572608034862
+2021-11-16 12:17:04,792 - __main__ - INFO - epoch = 40, train/baseColour_acc1 = 99.18
+2021-11-16 12:17:04,792 - __main__ - INFO - epoch = 40, train/baseColour_acc2 = 99.87
+2021-11-16 12:17:06,472 - __main__ - INFO - epoch = 40, val/loss = 2.13099
+2021-11-16 12:17:06,474 - __main__ - INFO - epoch = 40, val/baseColour_acc1 = 64.89
+2021-11-16 12:17:06,474 - __main__ - INFO - epoch = 40, val/baseColour_acc2 = 79.47
+2021-11-16 12:17:06,474 - __main__ - INFO - ====================
+2021-11-16 12:17:36,703 - __main__ - INFO - epoch = 41, train/loss = 0.029686540340710627
+2021-11-16 12:17:36,704 - __main__ - INFO - epoch = 41, train/baseColour_acc1 = 99.13
+2021-11-16 12:17:36,705 - __main__ - INFO - epoch = 41, train/baseColour_acc2 = 99.87
+2021-11-16 12:17:38,363 - __main__ - INFO - epoch = 41, val/loss = 2.13565
+2021-11-16 12:17:38,364 - __main__ - INFO - epoch = 41, val/baseColour_acc1 = 64.89
+2021-11-16 12:17:38,364 - __main__ - INFO - epoch = 41, val/baseColour_acc2 = 79.51
+2021-11-16 12:17:38,365 - __main__ - INFO - ====================
+2021-11-16 12:18:08,543 - __main__ - INFO - epoch = 42, train/loss = 0.028972342071172438
+2021-11-16 12:18:08,543 - __main__ - INFO - epoch = 42, train/baseColour_acc1 = 99.14
+2021-11-16 12:18:08,544 - __main__ - INFO - epoch = 42, train/baseColour_acc2 = 99.89
+2021-11-16 12:18:10,189 - __main__ - INFO - epoch = 42, val/loss = 2.13388
+2021-11-16 12:18:10,190 - __main__ - INFO - epoch = 42, val/baseColour_acc1 = 64.94
+2021-11-16 12:18:10,191 - __main__ - INFO - epoch = 42, val/baseColour_acc2 = 79.51
+2021-11-16 12:18:10,191 - __main__ - INFO - ====================
+2021-11-16 12:18:40,406 - __main__ - INFO - epoch = 43, train/loss = 0.028090837950769224
+2021-11-16 12:18:40,407 - __main__ - INFO - epoch = 43, train/baseColour_acc1 = 99.2
+2021-11-16 12:18:40,407 - __main__ - INFO - epoch = 43, train/baseColour_acc2 = 99.87
+2021-11-16 12:18:42,067 - __main__ - INFO - epoch = 43, val/loss = 2.13495
+2021-11-16 12:18:42,068 - __main__ - INFO - epoch = 43, val/baseColour_acc1 = 64.89
+2021-11-16 12:18:42,069 - __main__ - INFO - epoch = 43, val/baseColour_acc2 = 79.56
+2021-11-16 12:18:42,069 - __main__ - INFO - ====================
+2021-11-16 12:19:12,226 - __main__ - INFO - epoch = 44, train/loss = 0.02886688821998082
+2021-11-16 12:19:12,227 - __main__ - INFO - epoch = 44, train/baseColour_acc1 = 99.16
+2021-11-16 12:19:12,228 - __main__ - INFO - epoch = 44, train/baseColour_acc2 = 99.86
+2021-11-16 12:19:13,860 - __main__ - INFO - epoch = 44, val/loss = 2.13531
+2021-11-16 12:19:13,862 - __main__ - INFO - epoch = 44, val/baseColour_acc1 = 64.87
+2021-11-16 12:19:13,862 - __main__ - INFO - epoch = 44, val/baseColour_acc2 = 79.4
+2021-11-16 12:19:13,862 - __main__ - INFO - ====================
+2021-11-16 12:19:44,063 - __main__ - INFO - epoch = 45, train/loss = 0.026855377872523508
+2021-11-16 12:19:44,064 - __main__ - INFO - epoch = 45, train/baseColour_acc1 = 99.2
+2021-11-16 12:19:44,064 - __main__ - INFO - epoch = 45, train/baseColour_acc2 = 99.89
+2021-11-16 12:19:45,711 - __main__ - INFO - epoch = 45, val/loss = 2.1345
+2021-11-16 12:19:45,711 - __main__ - INFO - epoch = 45, val/baseColour_acc1 = 64.91
+2021-11-16 12:19:45,712 - __main__ - INFO - epoch = 45, val/baseColour_acc2 = 79.45
+2021-11-16 12:19:45,712 - __main__ - INFO - ====================
+2021-11-16 12:20:15,893 - __main__ - INFO - epoch = 46, train/loss = 0.028079100051208547
+2021-11-16 12:20:15,894 - __main__ - INFO - epoch = 46, train/baseColour_acc1 = 99.15
+2021-11-16 12:20:15,894 - __main__ - INFO - epoch = 46, train/baseColour_acc2 = 99.89
+2021-11-16 12:20:17,543 - __main__ - INFO - epoch = 46, val/loss = 2.14028
+2021-11-16 12:20:17,544 - __main__ - INFO - epoch = 46, val/baseColour_acc1 = 64.76
+2021-11-16 12:20:17,545 - __main__ - INFO - epoch = 46, val/baseColour_acc2 = 79.45
+2021-11-16 12:20:17,545 - __main__ - INFO - ====================
+2021-11-16 12:20:47,702 - __main__ - INFO - epoch = 47, train/loss = 0.02769353618159106
+2021-11-16 12:20:47,703 - __main__ - INFO - epoch = 47, train/baseColour_acc1 = 99.24
+2021-11-16 12:20:47,703 - __main__ - INFO - epoch = 47, train/baseColour_acc2 = 99.88
+2021-11-16 12:20:49,363 - __main__ - INFO - epoch = 47, val/loss = 2.1368
+2021-11-16 12:20:49,363 - __main__ - INFO - epoch = 47, val/baseColour_acc1 = 64.91
+2021-11-16 12:20:49,364 - __main__ - INFO - epoch = 47, val/baseColour_acc2 = 79.56
+2021-11-16 12:20:49,364 - __main__ - INFO - ====================
+2021-11-16 12:21:19,533 - __main__ - INFO - epoch = 48, train/loss = 0.029035698769516068
+2021-11-16 12:21:19,534 - __main__ - INFO - epoch = 48, train/baseColour_acc1 = 99.14
+2021-11-16 12:21:19,535 - __main__ - INFO - epoch = 48, train/baseColour_acc2 = 99.88
+2021-11-16 12:21:21,194 - __main__ - INFO - epoch = 48, val/loss = 2.1335
+2021-11-16 12:21:21,195 - __main__ - INFO - epoch = 48, val/baseColour_acc1 = 64.89
+2021-11-16 12:21:21,195 - __main__ - INFO - epoch = 48, val/baseColour_acc2 = 79.49
+2021-11-16 12:21:21,196 - __main__ - INFO - ====================
+2021-11-16 12:21:51,357 - __main__ - INFO - epoch = 49, train/loss = 0.027603802516272192
+2021-11-16 12:21:51,358 - __main__ - INFO - epoch = 49, train/baseColour_acc1 = 99.12
+2021-11-16 12:21:51,358 - __main__ - INFO - epoch = 49, train/baseColour_acc2 = 99.9
+2021-11-16 12:21:53,031 - __main__ - INFO - epoch = 49, val/loss = 2.13896
+2021-11-16 12:21:53,032 - __main__ - INFO - epoch = 49, val/baseColour_acc1 = 64.91
+2021-11-16 12:21:53,032 - __main__ - INFO - epoch = 49, val/baseColour_acc2 = 79.4
+2021-11-16 12:21:53,032 - __main__ - INFO - ====================

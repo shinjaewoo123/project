@@ -1,0 +1,20 @@
+anno_filename: styles_by_article.csv
+batch_size: 1024
+class_num_lst:
+- 5
+classes_filename: classes.pkl
+columns:
+- masterCategory
+config: config.yaml
+crop_res: 80
+data_dir: ./dataset/
+device: cuda
+feature_dim: 1280
+lr: 0.001
+model_save_dir: ./runs/model_efficientnetv2_masterCategory/1
+modelname: tf_efficientnetv2_s_in21k
+num_epoch: 50
+num_workers: 4
+random_seed: 23
+resize_res: 100
+save_dir: ./runs/model_efficientnetv2_masterCategory/

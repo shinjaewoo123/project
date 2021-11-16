@@ -1,0 +1,353 @@
+2021-11-16 09:52:34,832 - __main__ - INFO - Main module is initialized.
+2021-11-16 09:52:34,897 - __main__ - INFO - number of train data 38
+2021-11-16 09:52:34,897 - __main__ - INFO - number of val data 5
+2021-11-16 09:53:10,021 - __main__ - INFO - epoch = 0, train/loss = 0.4413760304450989
+2021-11-16 09:53:10,022 - __main__ - INFO - epoch = 0, train/gender_acc1 = 83.83
+2021-11-16 09:53:10,022 - __main__ - INFO - epoch = 0, train/gender_acc2 = 94.17
+2021-11-16 09:53:12,231 - __main__ - INFO - epoch = 0, val/loss = 0.54598
+2021-11-16 09:53:12,232 - __main__ - INFO - epoch = 0, val/gender_acc1 = 80.37
+2021-11-16 09:53:12,232 - __main__ - INFO - epoch = 0, val/gender_acc2 = 93.06
+2021-11-16 09:53:12,233 - __main__ - INFO - ====================
+2021-11-16 09:53:42,042 - __main__ - INFO - epoch = 1, train/loss = 0.25379330390378047
+2021-11-16 09:53:42,043 - __main__ - INFO - epoch = 1, train/gender_acc1 = 91.0
+2021-11-16 09:53:42,043 - __main__ - INFO - epoch = 1, train/gender_acc2 = 97.88
+2021-11-16 09:53:43,680 - __main__ - INFO - epoch = 1, val/loss = 0.53897
+2021-11-16 09:53:43,680 - __main__ - INFO - epoch = 1, val/gender_acc1 = 81.29
+2021-11-16 09:53:43,680 - __main__ - INFO - epoch = 1, val/gender_acc2 = 92.81
+2021-11-16 09:53:43,680 - __main__ - INFO - ====================
+2021-11-16 09:54:14,303 - __main__ - INFO - epoch = 2, train/loss = 0.20074403246766642
+2021-11-16 09:54:14,303 - __main__ - INFO - epoch = 2, train/gender_acc1 = 92.88
+2021-11-16 09:54:14,304 - __main__ - INFO - epoch = 2, train/gender_acc2 = 98.63
+2021-11-16 09:54:15,951 - __main__ - INFO - epoch = 2, val/loss = 0.60014
+2021-11-16 09:54:15,952 - __main__ - INFO - epoch = 2, val/gender_acc1 = 80.08
+2021-11-16 09:54:15,952 - __main__ - INFO - epoch = 2, val/gender_acc2 = 91.15
+2021-11-16 09:54:15,952 - __main__ - INFO - ====================
+2021-11-16 09:54:45,877 - __main__ - INFO - epoch = 3, train/loss = 0.17202112215914225
+2021-11-16 09:54:45,877 - __main__ - INFO - epoch = 3, train/gender_acc1 = 93.96
+2021-11-16 09:54:45,878 - __main__ - INFO - epoch = 3, train/gender_acc2 = 98.93
+2021-11-16 09:54:47,525 - __main__ - INFO - epoch = 3, val/loss = 0.69995
+2021-11-16 09:54:47,526 - __main__ - INFO - epoch = 3, val/gender_acc1 = 77.85
+2021-11-16 09:54:47,527 - __main__ - INFO - epoch = 3, val/gender_acc2 = 91.17
+2021-11-16 09:54:47,527 - __main__ - INFO - ====================
+2021-11-16 09:55:17,495 - __main__ - INFO - epoch = 4, train/loss = 0.14857942297270424
+2021-11-16 09:55:17,496 - __main__ - INFO - epoch = 4, train/gender_acc1 = 94.72
+2021-11-16 09:55:17,496 - __main__ - INFO - epoch = 4, train/gender_acc2 = 99.19
+2021-11-16 09:55:19,139 - __main__ - INFO - epoch = 4, val/loss = 0.60742
+2021-11-16 09:55:19,139 - __main__ - INFO - epoch = 4, val/gender_acc1 = 81.4
+2021-11-16 09:55:19,140 - __main__ - INFO - epoch = 4, val/gender_acc2 = 93.13
+2021-11-16 09:55:19,140 - __main__ - INFO - ====================
+2021-11-16 09:55:49,219 - __main__ - INFO - epoch = 5, train/loss = 0.13227735322556997
+2021-11-16 09:55:49,219 - __main__ - INFO - epoch = 5, train/gender_acc1 = 95.29
+2021-11-16 09:55:49,219 - __main__ - INFO - epoch = 5, train/gender_acc2 = 99.38
+2021-11-16 09:55:50,878 - __main__ - INFO - epoch = 5, val/loss = 0.53023
+2021-11-16 09:55:50,879 - __main__ - INFO - epoch = 5, val/gender_acc1 = 82.32
+2021-11-16 09:55:50,879 - __main__ - INFO - epoch = 5, val/gender_acc2 = 95.04
+2021-11-16 09:55:50,879 - __main__ - INFO - ====================
+2021-11-16 09:56:21,756 - __main__ - INFO - epoch = 6, train/loss = 0.11510581699641127
+2021-11-16 09:56:21,757 - __main__ - INFO - epoch = 6, train/gender_acc1 = 95.94
+2021-11-16 09:56:21,758 - __main__ - INFO - epoch = 6, train/gender_acc2 = 99.44
+2021-11-16 09:56:23,466 - __main__ - INFO - epoch = 6, val/loss = 0.50079
+2021-11-16 09:56:23,467 - __main__ - INFO - epoch = 6, val/gender_acc1 = 83.81
+2021-11-16 09:56:23,468 - __main__ - INFO - epoch = 6, val/gender_acc2 = 96.65
+2021-11-16 09:56:23,468 - __main__ - INFO - ====================
+2021-11-16 09:56:54,358 - __main__ - INFO - epoch = 7, train/loss = 0.10052268795276943
+2021-11-16 09:56:54,359 - __main__ - INFO - epoch = 7, train/gender_acc1 = 96.38
+2021-11-16 09:56:54,360 - __main__ - INFO - epoch = 7, train/gender_acc2 = 99.52
+2021-11-16 09:56:56,020 - __main__ - INFO - epoch = 7, val/loss = 0.53644
+2021-11-16 09:56:56,021 - __main__ - INFO - epoch = 7, val/gender_acc1 = 83.33
+2021-11-16 09:56:56,023 - __main__ - INFO - epoch = 7, val/gender_acc2 = 94.61
+2021-11-16 09:56:56,023 - __main__ - INFO - ====================
+2021-11-16 09:57:26,099 - __main__ - INFO - epoch = 8, train/loss = 0.09204824484492603
+2021-11-16 09:57:26,100 - __main__ - INFO - epoch = 8, train/gender_acc1 = 96.71
+2021-11-16 09:57:26,100 - __main__ - INFO - epoch = 8, train/gender_acc2 = 99.59
+2021-11-16 09:57:27,747 - __main__ - INFO - epoch = 8, val/loss = 0.55271
+2021-11-16 09:57:27,748 - __main__ - INFO - epoch = 8, val/gender_acc1 = 84.19
+2021-11-16 09:57:27,749 - __main__ - INFO - epoch = 8, val/gender_acc2 = 94.9
+2021-11-16 09:57:27,749 - __main__ - INFO - ====================
+2021-11-16 09:57:57,903 - __main__ - INFO - epoch = 9, train/loss = 0.08416489796026756
+2021-11-16 09:57:57,904 - __main__ - INFO - epoch = 9, train/gender_acc1 = 96.98
+2021-11-16 09:57:57,904 - __main__ - INFO - epoch = 9, train/gender_acc2 = 99.74
+2021-11-16 09:57:59,574 - __main__ - INFO - epoch = 9, val/loss = 0.64684
+2021-11-16 09:57:59,575 - __main__ - INFO - epoch = 9, val/gender_acc1 = 81.2
+2021-11-16 09:57:59,576 - __main__ - INFO - epoch = 9, val/gender_acc2 = 94.23
+2021-11-16 09:57:59,576 - __main__ - INFO - ====================
+2021-11-16 09:58:29,692 - __main__ - INFO - epoch = 10, train/loss = 0.0731004903975286
+2021-11-16 09:58:29,693 - __main__ - INFO - epoch = 10, train/gender_acc1 = 97.38
+2021-11-16 09:58:29,693 - __main__ - INFO - epoch = 10, train/gender_acc2 = 99.74
+2021-11-16 09:58:31,357 - __main__ - INFO - epoch = 10, val/loss = 0.59799
+2021-11-16 09:58:31,358 - __main__ - INFO - epoch = 10, val/gender_acc1 = 83.09
+2021-11-16 09:58:31,359 - __main__ - INFO - epoch = 10, val/gender_acc2 = 94.25
+2021-11-16 09:58:31,359 - __main__ - INFO - ====================
+2021-11-16 09:59:01,499 - __main__ - INFO - epoch = 11, train/loss = 0.07211558765878803
+2021-11-16 09:59:01,499 - __main__ - INFO - epoch = 11, train/gender_acc1 = 97.45
+2021-11-16 09:59:01,500 - __main__ - INFO - epoch = 11, train/gender_acc2 = 99.78
+2021-11-16 09:59:03,139 - __main__ - INFO - epoch = 11, val/loss = 0.68009
+2021-11-16 09:59:03,140 - __main__ - INFO - epoch = 11, val/gender_acc1 = 81.18
+2021-11-16 09:59:03,141 - __main__ - INFO - epoch = 11, val/gender_acc2 = 92.41
+2021-11-16 09:59:03,141 - __main__ - INFO - ====================
+2021-11-16 09:59:33,281 - __main__ - INFO - epoch = 12, train/loss = 0.06368316749208852
+2021-11-16 09:59:33,282 - __main__ - INFO - epoch = 12, train/gender_acc1 = 97.78
+2021-11-16 09:59:33,282 - __main__ - INFO - epoch = 12, train/gender_acc2 = 99.81
+2021-11-16 09:59:34,953 - __main__ - INFO - epoch = 12, val/loss = 0.79825
+2021-11-16 09:59:34,954 - __main__ - INFO - epoch = 12, val/gender_acc1 = 79.94
+2021-11-16 09:59:34,954 - __main__ - INFO - epoch = 12, val/gender_acc2 = 94.2
+2021-11-16 09:59:34,955 - __main__ - INFO - ====================
+2021-11-16 10:00:05,122 - __main__ - INFO - epoch = 13, train/loss = 0.059739809581323675
+2021-11-16 10:00:05,123 - __main__ - INFO - epoch = 13, train/gender_acc1 = 97.97
+2021-11-16 10:00:05,124 - __main__ - INFO - epoch = 13, train/gender_acc2 = 99.8
+2021-11-16 10:00:06,766 - __main__ - INFO - epoch = 13, val/loss = 0.93565
+2021-11-16 10:00:06,768 - __main__ - INFO - epoch = 13, val/gender_acc1 = 79.22
+2021-11-16 10:00:06,768 - __main__ - INFO - epoch = 13, val/gender_acc2 = 90.25
+2021-11-16 10:00:06,768 - __main__ - INFO - ====================
+2021-11-16 10:00:36,899 - __main__ - INFO - epoch = 14, train/loss = 0.05727793256703176
+2021-11-16 10:00:36,899 - __main__ - INFO - epoch = 14, train/gender_acc1 = 97.99
+2021-11-16 10:00:36,900 - __main__ - INFO - epoch = 14, train/gender_acc2 = 99.83
+2021-11-16 10:00:38,565 - __main__ - INFO - epoch = 14, val/loss = 0.91196
+2021-11-16 10:00:38,567 - __main__ - INFO - epoch = 14, val/gender_acc1 = 77.29
+2021-11-16 10:00:38,568 - __main__ - INFO - epoch = 14, val/gender_acc2 = 89.47
+2021-11-16 10:00:38,568 - __main__ - INFO - ====================
+2021-11-16 10:01:08,689 - __main__ - INFO - epoch = 15, train/loss = 0.051043114134747734
+2021-11-16 10:01:08,690 - __main__ - INFO - epoch = 15, train/gender_acc1 = 98.19
+2021-11-16 10:01:08,690 - __main__ - INFO - epoch = 15, train/gender_acc2 = 99.87
+2021-11-16 10:01:10,349 - __main__ - INFO - epoch = 15, val/loss = 0.87793
+2021-11-16 10:01:10,351 - __main__ - INFO - epoch = 15, val/gender_acc1 = 79.07
+2021-11-16 10:01:10,352 - __main__ - INFO - epoch = 15, val/gender_acc2 = 91.35
+2021-11-16 10:01:10,352 - __main__ - INFO - ====================
+2021-11-16 10:01:40,500 - __main__ - INFO - epoch = 16, train/loss = 0.04571687189960166
+2021-11-16 10:01:40,500 - __main__ - INFO - epoch = 16, train/gender_acc1 = 98.41
+2021-11-16 10:01:40,501 - __main__ - INFO - epoch = 16, train/gender_acc2 = 99.85
+2021-11-16 10:01:42,154 - __main__ - INFO - epoch = 16, val/loss = 0.95297
+2021-11-16 10:01:42,155 - __main__ - INFO - epoch = 16, val/gender_acc1 = 79.42
+2021-11-16 10:01:42,155 - __main__ - INFO - epoch = 16, val/gender_acc2 = 92.3
+2021-11-16 10:01:42,155 - __main__ - INFO - ====================
+2021-11-16 10:02:12,297 - __main__ - INFO - epoch = 17, train/loss = 0.04473411933960099
+2021-11-16 10:02:12,298 - __main__ - INFO - epoch = 17, train/gender_acc1 = 98.55
+2021-11-16 10:02:12,298 - __main__ - INFO - epoch = 17, train/gender_acc2 = 99.89
+2021-11-16 10:02:13,964 - __main__ - INFO - epoch = 17, val/loss = 0.75634
+2021-11-16 10:02:13,965 - __main__ - INFO - epoch = 17, val/gender_acc1 = 80.5
+2021-11-16 10:02:13,965 - __main__ - INFO - epoch = 17, val/gender_acc2 = 93.91
+2021-11-16 10:02:13,965 - __main__ - INFO - ====================
+2021-11-16 10:02:44,075 - __main__ - INFO - epoch = 18, train/loss = 0.031084305631290925
+2021-11-16 10:02:44,076 - __main__ - INFO - epoch = 18, train/gender_acc1 = 98.96
+2021-11-16 10:02:44,076 - __main__ - INFO - epoch = 18, train/gender_acc2 = 99.93
+2021-11-16 10:02:45,733 - __main__ - INFO - epoch = 18, val/loss = 0.62165
+2021-11-16 10:02:45,734 - __main__ - INFO - epoch = 18, val/gender_acc1 = 83.83
+2021-11-16 10:02:45,734 - __main__ - INFO - epoch = 18, val/gender_acc2 = 95.62
+2021-11-16 10:02:45,735 - __main__ - INFO - ====================
+2021-11-16 10:03:15,852 - __main__ - INFO - epoch = 19, train/loss = 0.016537711146826808
+2021-11-16 10:03:15,853 - __main__ - INFO - epoch = 19, train/gender_acc1 = 99.46
+2021-11-16 10:03:15,854 - __main__ - INFO - epoch = 19, train/gender_acc2 = 99.98
+2021-11-16 10:03:17,506 - __main__ - INFO - epoch = 19, val/loss = 0.69463
+2021-11-16 10:03:17,507 - __main__ - INFO - epoch = 19, val/gender_acc1 = 83.54
+2021-11-16 10:03:17,507 - __main__ - INFO - epoch = 19, val/gender_acc2 = 95.31
+2021-11-16 10:03:17,507 - __main__ - INFO - ====================
+2021-11-16 10:03:47,624 - __main__ - INFO - epoch = 20, train/loss = 0.011806792604099763
+2021-11-16 10:03:47,624 - __main__ - INFO - epoch = 20, train/gender_acc1 = 99.63
+2021-11-16 10:03:47,624 - __main__ - INFO - epoch = 20, train/gender_acc2 = 99.99
+2021-11-16 10:03:49,266 - __main__ - INFO - epoch = 20, val/loss = 0.71222
+2021-11-16 10:03:49,267 - __main__ - INFO - epoch = 20, val/gender_acc1 = 83.96
+2021-11-16 10:03:49,267 - __main__ - INFO - epoch = 20, val/gender_acc2 = 95.31
+2021-11-16 10:03:49,267 - __main__ - INFO - ====================
+2021-11-16 10:04:19,392 - __main__ - INFO - epoch = 21, train/loss = 0.009196610594364373
+2021-11-16 10:04:19,392 - __main__ - INFO - epoch = 21, train/gender_acc1 = 99.68
+2021-11-16 10:04:19,393 - __main__ - INFO - epoch = 21, train/gender_acc2 = 99.99
+2021-11-16 10:04:21,058 - __main__ - INFO - epoch = 21, val/loss = 0.7825
+2021-11-16 10:04:21,058 - __main__ - INFO - epoch = 21, val/gender_acc1 = 83.31
+2021-11-16 10:04:21,059 - __main__ - INFO - epoch = 21, val/gender_acc2 = 94.83
+2021-11-16 10:04:21,059 - __main__ - INFO - ====================
+2021-11-16 10:04:51,178 - __main__ - INFO - epoch = 22, train/loss = 0.008316107391453298
+2021-11-16 10:04:51,179 - __main__ - INFO - epoch = 22, train/gender_acc1 = 99.72
+2021-11-16 10:04:51,179 - __main__ - INFO - epoch = 22, train/gender_acc2 = 99.98
+2021-11-16 10:04:52,844 - __main__ - INFO - epoch = 22, val/loss = 0.79042
+2021-11-16 10:04:52,845 - __main__ - INFO - epoch = 22, val/gender_acc1 = 83.81
+2021-11-16 10:04:52,845 - __main__ - INFO - epoch = 22, val/gender_acc2 = 95.17
+2021-11-16 10:04:52,846 - __main__ - INFO - ====================
+2021-11-16 10:05:22,979 - __main__ - INFO - epoch = 23, train/loss = 0.006896515330912447
+2021-11-16 10:05:22,979 - __main__ - INFO - epoch = 23, train/gender_acc1 = 99.79
+2021-11-16 10:05:22,980 - __main__ - INFO - epoch = 23, train/gender_acc2 = 99.99
+2021-11-16 10:05:24,619 - __main__ - INFO - epoch = 23, val/loss = 0.79075
+2021-11-16 10:05:24,619 - __main__ - INFO - epoch = 23, val/gender_acc1 = 83.96
+2021-11-16 10:05:24,620 - __main__ - INFO - epoch = 23, val/gender_acc2 = 95.28
+2021-11-16 10:05:24,620 - __main__ - INFO - ====================
+2021-11-16 10:05:54,752 - __main__ - INFO - epoch = 24, train/loss = 0.005797727229563813
+2021-11-16 10:05:54,753 - __main__ - INFO - epoch = 24, train/gender_acc1 = 99.82
+2021-11-16 10:05:54,753 - __main__ - INFO - epoch = 24, train/gender_acc2 = 100.0
+2021-11-16 10:05:56,402 - __main__ - INFO - epoch = 24, val/loss = 0.82262
+2021-11-16 10:05:56,403 - __main__ - INFO - epoch = 24, val/gender_acc1 = 83.98
+2021-11-16 10:05:56,403 - __main__ - INFO - epoch = 24, val/gender_acc2 = 95.31
+2021-11-16 10:05:56,404 - __main__ - INFO - ====================
+2021-11-16 10:06:26,521 - __main__ - INFO - epoch = 25, train/loss = 0.005875891604534301
+2021-11-16 10:06:26,521 - __main__ - INFO - epoch = 25, train/gender_acc1 = 99.79
+2021-11-16 10:06:26,522 - __main__ - INFO - epoch = 25, train/gender_acc2 = 99.99
+2021-11-16 10:06:28,179 - __main__ - INFO - epoch = 25, val/loss = 0.81087
+2021-11-16 10:06:28,179 - __main__ - INFO - epoch = 25, val/gender_acc1 = 84.14
+2021-11-16 10:06:28,180 - __main__ - INFO - epoch = 25, val/gender_acc2 = 95.44
+2021-11-16 10:06:28,180 - __main__ - INFO - ====================
+2021-11-16 10:06:58,344 - __main__ - INFO - epoch = 26, train/loss = 0.005220400549373345
+2021-11-16 10:06:58,345 - __main__ - INFO - epoch = 26, train/gender_acc1 = 99.83
+2021-11-16 10:06:58,346 - __main__ - INFO - epoch = 26, train/gender_acc2 = 99.99
+2021-11-16 10:07:00,023 - __main__ - INFO - epoch = 26, val/loss = 0.85981
+2021-11-16 10:07:00,024 - __main__ - INFO - epoch = 26, val/gender_acc1 = 84.03
+2021-11-16 10:07:00,024 - __main__ - INFO - epoch = 26, val/gender_acc2 = 95.33
+2021-11-16 10:07:00,025 - __main__ - INFO - ====================
+2021-11-16 10:07:30,179 - __main__ - INFO - epoch = 27, train/loss = 0.005416006434978427
+2021-11-16 10:07:30,180 - __main__ - INFO - epoch = 27, train/gender_acc1 = 99.81
+2021-11-16 10:07:30,180 - __main__ - INFO - epoch = 27, train/gender_acc2 = 99.99
+2021-11-16 10:07:31,898 - __main__ - INFO - epoch = 27, val/loss = 0.86893
+2021-11-16 10:07:31,899 - __main__ - INFO - epoch = 27, val/gender_acc1 = 83.81
+2021-11-16 10:07:31,900 - __main__ - INFO - epoch = 27, val/gender_acc2 = 95.08
+2021-11-16 10:07:31,900 - __main__ - INFO - ====================
+2021-11-16 10:08:02,081 - __main__ - INFO - epoch = 28, train/loss = 0.004058365863257725
+2021-11-16 10:08:02,082 - __main__ - INFO - epoch = 28, train/gender_acc1 = 99.88
+2021-11-16 10:08:02,083 - __main__ - INFO - epoch = 28, train/gender_acc2 = 100.0
+2021-11-16 10:08:03,730 - __main__ - INFO - epoch = 28, val/loss = 0.84421
+2021-11-16 10:08:03,731 - __main__ - INFO - epoch = 28, val/gender_acc1 = 84.59
+2021-11-16 10:08:03,732 - __main__ - INFO - epoch = 28, val/gender_acc2 = 95.42
+2021-11-16 10:08:03,732 - __main__ - INFO - ====================
+2021-11-16 10:08:33,899 - __main__ - INFO - epoch = 29, train/loss = 0.004032276474294792
+2021-11-16 10:08:33,900 - __main__ - INFO - epoch = 29, train/gender_acc1 = 99.89
+2021-11-16 10:08:33,900 - __main__ - INFO - epoch = 29, train/gender_acc2 = 99.99
+2021-11-16 10:08:35,616 - __main__ - INFO - epoch = 29, val/loss = 0.85813
+2021-11-16 10:08:35,617 - __main__ - INFO - epoch = 29, val/gender_acc1 = 84.34
+2021-11-16 10:08:35,618 - __main__ - INFO - epoch = 29, val/gender_acc2 = 95.26
+2021-11-16 10:08:35,618 - __main__ - INFO - ====================
+2021-11-16 10:09:05,811 - __main__ - INFO - epoch = 30, train/loss = 0.004139002139900664
+2021-11-16 10:09:05,812 - __main__ - INFO - epoch = 30, train/gender_acc1 = 99.85
+2021-11-16 10:09:05,812 - __main__ - INFO - epoch = 30, train/gender_acc2 = 99.99
+2021-11-16 10:09:07,528 - __main__ - INFO - epoch = 30, val/loss = 0.85634
+2021-11-16 10:09:07,529 - __main__ - INFO - epoch = 30, val/gender_acc1 = 84.32
+2021-11-16 10:09:07,530 - __main__ - INFO - epoch = 30, val/gender_acc2 = 95.28
+2021-11-16 10:09:07,530 - __main__ - INFO - ====================
+2021-11-16 10:09:37,708 - __main__ - INFO - epoch = 31, train/loss = 0.003967953959210335
+2021-11-16 10:09:37,709 - __main__ - INFO - epoch = 31, train/gender_acc1 = 99.87
+2021-11-16 10:09:37,710 - __main__ - INFO - epoch = 31, train/gender_acc2 = 100.0
+2021-11-16 10:09:39,370 - __main__ - INFO - epoch = 31, val/loss = 0.85711
+2021-11-16 10:09:39,371 - __main__ - INFO - epoch = 31, val/gender_acc1 = 84.39
+2021-11-16 10:09:39,371 - __main__ - INFO - epoch = 31, val/gender_acc2 = 95.26
+2021-11-16 10:09:39,371 - __main__ - INFO - ====================
+2021-11-16 10:10:09,511 - __main__ - INFO - epoch = 32, train/loss = 0.003964798344225672
+2021-11-16 10:10:09,512 - __main__ - INFO - epoch = 32, train/gender_acc1 = 99.88
+2021-11-16 10:10:09,512 - __main__ - INFO - epoch = 32, train/gender_acc2 = 100.0
+2021-11-16 10:10:11,167 - __main__ - INFO - epoch = 32, val/loss = 0.85524
+2021-11-16 10:10:11,168 - __main__ - INFO - epoch = 32, val/gender_acc1 = 84.5
+2021-11-16 10:10:11,169 - __main__ - INFO - epoch = 32, val/gender_acc2 = 95.26
+2021-11-16 10:10:11,169 - __main__ - INFO - ====================
+2021-11-16 10:10:41,306 - __main__ - INFO - epoch = 33, train/loss = 0.0034122523379904266
+2021-11-16 10:10:41,307 - __main__ - INFO - epoch = 33, train/gender_acc1 = 99.89
+2021-11-16 10:10:41,307 - __main__ - INFO - epoch = 33, train/gender_acc2 = 100.0
+2021-11-16 10:10:42,961 - __main__ - INFO - epoch = 33, val/loss = 0.85134
+2021-11-16 10:10:42,962 - __main__ - INFO - epoch = 33, val/gender_acc1 = 84.61
+2021-11-16 10:10:42,962 - __main__ - INFO - epoch = 33, val/gender_acc2 = 95.37
+2021-11-16 10:10:42,962 - __main__ - INFO - ====================
+2021-11-16 10:11:13,066 - __main__ - INFO - epoch = 34, train/loss = 0.002957609959259188
+2021-11-16 10:11:13,066 - __main__ - INFO - epoch = 34, train/gender_acc1 = 99.9
+2021-11-16 10:11:13,067 - __main__ - INFO - epoch = 34, train/gender_acc2 = 100.0
+2021-11-16 10:11:14,703 - __main__ - INFO - epoch = 34, val/loss = 0.85366
+2021-11-16 10:11:14,704 - __main__ - INFO - epoch = 34, val/gender_acc1 = 84.66
+2021-11-16 10:11:14,704 - __main__ - INFO - epoch = 34, val/gender_acc2 = 95.42
+2021-11-16 10:11:14,704 - __main__ - INFO - ====================
+2021-11-16 10:11:44,862 - __main__ - INFO - epoch = 35, train/loss = 0.0034960860319092476
+2021-11-16 10:11:44,863 - __main__ - INFO - epoch = 35, train/gender_acc1 = 99.89
+2021-11-16 10:11:44,863 - __main__ - INFO - epoch = 35, train/gender_acc2 = 100.0
+2021-11-16 10:11:46,519 - __main__ - INFO - epoch = 35, val/loss = 0.86605
+2021-11-16 10:11:46,520 - __main__ - INFO - epoch = 35, val/gender_acc1 = 84.55
+2021-11-16 10:11:46,521 - __main__ - INFO - epoch = 35, val/gender_acc2 = 95.26
+2021-11-16 10:11:46,521 - __main__ - INFO - ====================
+2021-11-16 10:12:16,702 - __main__ - INFO - epoch = 36, train/loss = 0.0030838077180210107
+2021-11-16 10:12:16,703 - __main__ - INFO - epoch = 36, train/gender_acc1 = 99.92
+2021-11-16 10:12:16,703 - __main__ - INFO - epoch = 36, train/gender_acc2 = 99.99
+2021-11-16 10:12:18,370 - __main__ - INFO - epoch = 36, val/loss = 0.86962
+2021-11-16 10:12:18,371 - __main__ - INFO - epoch = 36, val/gender_acc1 = 84.46
+2021-11-16 10:12:18,371 - __main__ - INFO - epoch = 36, val/gender_acc2 = 95.26
+2021-11-16 10:12:18,371 - __main__ - INFO - ====================
+2021-11-16 10:12:48,517 - __main__ - INFO - epoch = 37, train/loss = 0.002761256521089787
+2021-11-16 10:12:48,517 - __main__ - INFO - epoch = 37, train/gender_acc1 = 99.9
+2021-11-16 10:12:48,518 - __main__ - INFO - epoch = 37, train/gender_acc2 = 100.0
+2021-11-16 10:12:50,162 - __main__ - INFO - epoch = 37, val/loss = 0.86981
+2021-11-16 10:12:50,163 - __main__ - INFO - epoch = 37, val/gender_acc1 = 84.52
+2021-11-16 10:12:50,164 - __main__ - INFO - epoch = 37, val/gender_acc2 = 95.28
+2021-11-16 10:12:50,164 - __main__ - INFO - ====================
+2021-11-16 10:13:20,317 - __main__ - INFO - epoch = 38, train/loss = 0.0026456500927452
+2021-11-16 10:13:20,317 - __main__ - INFO - epoch = 38, train/gender_acc1 = 99.91
+2021-11-16 10:13:20,318 - __main__ - INFO - epoch = 38, train/gender_acc2 = 100.0
+2021-11-16 10:13:21,990 - __main__ - INFO - epoch = 38, val/loss = 0.86919
+2021-11-16 10:13:21,991 - __main__ - INFO - epoch = 38, val/gender_acc1 = 84.55
+2021-11-16 10:13:21,991 - __main__ - INFO - epoch = 38, val/gender_acc2 = 95.28
+2021-11-16 10:13:21,991 - __main__ - INFO - ====================
+2021-11-16 10:13:52,137 - __main__ - INFO - epoch = 39, train/loss = 0.002611203342798705
+2021-11-16 10:13:52,138 - __main__ - INFO - epoch = 39, train/gender_acc1 = 99.92
+2021-11-16 10:13:52,139 - __main__ - INFO - epoch = 39, train/gender_acc2 = 100.0
+2021-11-16 10:13:53,814 - __main__ - INFO - epoch = 39, val/loss = 0.87829
+2021-11-16 10:13:53,815 - __main__ - INFO - epoch = 39, val/gender_acc1 = 84.55
+2021-11-16 10:13:53,816 - __main__ - INFO - epoch = 39, val/gender_acc2 = 95.31
+2021-11-16 10:13:53,816 - __main__ - INFO - ====================
+2021-11-16 10:14:23,942 - __main__ - INFO - epoch = 40, train/loss = 0.0029547775951581762
+2021-11-16 10:14:23,943 - __main__ - INFO - epoch = 40, train/gender_acc1 = 99.89
+2021-11-16 10:14:23,944 - __main__ - INFO - epoch = 40, train/gender_acc2 = 100.0
+2021-11-16 10:14:25,604 - __main__ - INFO - epoch = 40, val/loss = 0.87309
+2021-11-16 10:14:25,605 - __main__ - INFO - epoch = 40, val/gender_acc1 = 84.57
+2021-11-16 10:14:25,606 - __main__ - INFO - epoch = 40, val/gender_acc2 = 95.33
+2021-11-16 10:14:25,606 - __main__ - INFO - ====================
+2021-11-16 10:14:55,755 - __main__ - INFO - epoch = 41, train/loss = 0.0035760430174904237
+2021-11-16 10:14:55,755 - __main__ - INFO - epoch = 41, train/gender_acc1 = 99.88
+2021-11-16 10:14:55,755 - __main__ - INFO - epoch = 41, train/gender_acc2 = 99.99
+2021-11-16 10:14:57,384 - __main__ - INFO - epoch = 41, val/loss = 0.87817
+2021-11-16 10:14:57,384 - __main__ - INFO - epoch = 41, val/gender_acc1 = 84.55
+2021-11-16 10:14:57,384 - __main__ - INFO - epoch = 41, val/gender_acc2 = 95.31
+2021-11-16 10:14:57,384 - __main__ - INFO - ====================
+2021-11-16 10:15:27,536 - __main__ - INFO - epoch = 42, train/loss = 0.003454973976323871
+2021-11-16 10:15:27,537 - __main__ - INFO - epoch = 42, train/gender_acc1 = 99.9
+2021-11-16 10:15:27,538 - __main__ - INFO - epoch = 42, train/gender_acc2 = 99.99
+2021-11-16 10:15:29,192 - __main__ - INFO - epoch = 42, val/loss = 0.87733
+2021-11-16 10:15:29,193 - __main__ - INFO - epoch = 42, val/gender_acc1 = 84.57
+2021-11-16 10:15:29,193 - __main__ - INFO - epoch = 42, val/gender_acc2 = 95.28
+2021-11-16 10:15:29,193 - __main__ - INFO - ====================
+2021-11-16 10:15:59,347 - __main__ - INFO - epoch = 43, train/loss = 0.002976673122152294
+2021-11-16 10:15:59,348 - __main__ - INFO - epoch = 43, train/gender_acc1 = 99.9
+2021-11-16 10:15:59,348 - __main__ - INFO - epoch = 43, train/gender_acc2 = 100.0
+2021-11-16 10:16:01,001 - __main__ - INFO - epoch = 43, val/loss = 0.88068
+2021-11-16 10:16:01,002 - __main__ - INFO - epoch = 43, val/gender_acc1 = 84.41
+2021-11-16 10:16:01,003 - __main__ - INFO - epoch = 43, val/gender_acc2 = 95.28
+2021-11-16 10:16:01,003 - __main__ - INFO - ====================
+2021-11-16 10:16:31,173 - __main__ - INFO - epoch = 44, train/loss = 0.003406836672710549
+2021-11-16 10:16:31,173 - __main__ - INFO - epoch = 44, train/gender_acc1 = 99.91
+2021-11-16 10:16:31,174 - __main__ - INFO - epoch = 44, train/gender_acc2 = 100.0
+2021-11-16 10:16:32,840 - __main__ - INFO - epoch = 44, val/loss = 0.87921
+2021-11-16 10:16:32,840 - __main__ - INFO - epoch = 44, val/gender_acc1 = 84.5
+2021-11-16 10:16:32,840 - __main__ - INFO - epoch = 44, val/gender_acc2 = 95.22
+2021-11-16 10:16:32,840 - __main__ - INFO - ====================
+2021-11-16 10:17:02,948 - __main__ - INFO - epoch = 45, train/loss = 0.003042351564018693
+2021-11-16 10:17:02,949 - __main__ - INFO - epoch = 45, train/gender_acc1 = 99.9
+2021-11-16 10:17:02,950 - __main__ - INFO - epoch = 45, train/gender_acc2 = 100.0
+2021-11-16 10:17:04,606 - __main__ - INFO - epoch = 45, val/loss = 0.87975
+2021-11-16 10:17:04,607 - __main__ - INFO - epoch = 45, val/gender_acc1 = 84.55
+2021-11-16 10:17:04,608 - __main__ - INFO - epoch = 45, val/gender_acc2 = 95.24
+2021-11-16 10:17:04,608 - __main__ - INFO - ====================
+2021-11-16 10:17:34,732 - __main__ - INFO - epoch = 46, train/loss = 0.003670148808037323
+2021-11-16 10:17:34,733 - __main__ - INFO - epoch = 46, train/gender_acc1 = 99.89
+2021-11-16 10:17:34,734 - __main__ - INFO - epoch = 46, train/gender_acc2 = 99.99
+2021-11-16 10:17:36,391 - __main__ - INFO - epoch = 46, val/loss = 0.87609
+2021-11-16 10:17:36,392 - __main__ - INFO - epoch = 46, val/gender_acc1 = 84.5
+2021-11-16 10:17:36,393 - __main__ - INFO - epoch = 46, val/gender_acc2 = 95.28
+2021-11-16 10:17:36,393 - __main__ - INFO - ====================
+2021-11-16 10:18:06,589 - __main__ - INFO - epoch = 47, train/loss = 0.00227176737175078
+2021-11-16 10:18:06,590 - __main__ - INFO - epoch = 47, train/gender_acc1 = 99.93
+2021-11-16 10:18:06,590 - __main__ - INFO - epoch = 47, train/gender_acc2 = 100.0
+2021-11-16 10:18:08,234 - __main__ - INFO - epoch = 47, val/loss = 0.87787
+2021-11-16 10:18:08,235 - __main__ - INFO - epoch = 47, val/gender_acc1 = 84.59
+2021-11-16 10:18:08,235 - __main__ - INFO - epoch = 47, val/gender_acc2 = 95.24
+2021-11-16 10:18:08,236 - __main__ - INFO - ====================
+2021-11-16 10:18:38,383 - __main__ - INFO - epoch = 48, train/loss = 0.0032974541322083064
+2021-11-16 10:18:38,384 - __main__ - INFO - epoch = 48, train/gender_acc1 = 99.91
+2021-11-16 10:18:38,385 - __main__ - INFO - epoch = 48, train/gender_acc2 = 99.99
+2021-11-16 10:18:40,027 - __main__ - INFO - epoch = 48, val/loss = 0.8796
+2021-11-16 10:18:40,027 - __main__ - INFO - epoch = 48, val/gender_acc1 = 84.57
+2021-11-16 10:18:40,028 - __main__ - INFO - epoch = 48, val/gender_acc2 = 95.24
+2021-11-16 10:18:40,028 - __main__ - INFO - ====================
+2021-11-16 10:19:10,171 - __main__ - INFO - epoch = 49, train/loss = 0.002499113913233343
+2021-11-16 10:19:10,171 - __main__ - INFO - epoch = 49, train/gender_acc1 = 99.94
+2021-11-16 10:19:10,172 - __main__ - INFO - epoch = 49, train/gender_acc2 = 100.0
+2021-11-16 10:19:11,827 - __main__ - INFO - epoch = 49, val/loss = 0.8751
+2021-11-16 10:19:11,827 - __main__ - INFO - epoch = 49, val/gender_acc1 = 84.48
+2021-11-16 10:19:11,828 - __main__ - INFO - epoch = 49, val/gender_acc2 = 95.33
+2021-11-16 10:19:11,828 - __main__ - INFO - ====================
